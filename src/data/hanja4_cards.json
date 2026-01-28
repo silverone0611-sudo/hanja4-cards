@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "character": "暇",
+    "sound": "가",
+    "meaning": "겨를",
+    "base": "日",
+    "total": 13
+  },
+  {
+    "id": 2,
+    "character": "假",
+    "sound": "가",
+    "meaning": "거짓",
+    "base": "人",
+    "total": 11
+  },
+  {
+    "id": 3,
+    "character": "街",
+    "sound": "가",
+    "meaning": "거리",
+    "base": "行",
+    "total": 12
+  },
+  {
+    "id": 4,
+    "character": "加",
+    "sound": "가",
+    "meaning": "더할",
+    "base": "力",
+    "total": 5
+  },
+  {
+    "id": 5,
+    "character": "可",
+    "sound": "가",
+    "meaning": "옳을",
+    "base": "口",
+    "total": 5
+  },
+  {
+    "id": 6,
+    "character": "價",
+    "sound": "가",
+    "meaning": "값",
+    "base": "人",
+    "total": 15
+  },
+  {
+    "id": 7,
+    "character": "家",
+    "sound": "가",
+    "meaning": "집",
+    "base": "宀",
+    "total": 10
+  },
+  {
+    "id": 8,
+    "character": "歌",
+    "sound": "가",
+    "meaning": "노래",
+    "base": "欠",
+    "total": 14
+  },
+  {
+    "id": 9,
+    "character": "刻",
+    "sound": "각",
+    "meaning": "새길",
+    "base": "刀",
+    "total": 8
+  },
+  {
+    "id": 10,
+    "character": "覺",
+    "sound": "각",
+    "meaning": "깨달을",
+    "base": "見",
+    "total": 20
+  },
+  {
+    "id": 11,
+    "character": "各",
+    "sound": "각",
+    "meaning": "각각",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 12,
+    "character": "角",
+    "sound": "각",
+    "meaning": "뿔",
+    "base": "角",
+    "total": 7
+  },
+  {
+    "id": 13,
+    "character": "干",
+    "sound": "간",
+    "meaning": "방패",
+    "base": "干",
+    "total": 3
+  },
+  {
+    "id": 14,
+    "character": "看",
+    "sound": "간",
+    "meaning": "볼",
+    "base": "目",
+    "total": 9
+  },
+  {
+    "id": 15,
+    "character": "簡",
+    "sound": "간",
+    "meaning": "대쪽/간략할",
+    "base": "竹",
+    "total": 18
+  },
+  {
+    "id": 16,
+    "character": "間",
+    "sound": "간",
+    "meaning": "사이/틈",
+    "base": "門",
+    "total": 12
+  },
+  {
+    "id": 17,
+    "character": "敢",
+    "sound": "감",
+    "meaning": "감히",
+    "base": "攴",
+    "total": 11
+  },
+  {
+    "id": 18,
+    "character": "甘",
+    "sound": "감",
+    "meaning": "달",
+    "base": "甘",
+    "total": 5
+  },
+  {
+    "id": 19,
+    "character": "減",
+    "sound": "감",
+    "meaning": "덜",
+    "base": "水",
+    "total": 12
+  },
+  {
+    "id": 20,
+    "character": "監",
+    "sound": "감",
+    "meaning": "볼",
+    "base": "皿",
+    "total": 14
+  },
+  {
+    "id": 21,
+    "character": "感",
+    "sound": "감",
+    "meaning": "느낄",
+    "base": "心",
+    "total": 13
+  },
+  {
+    "id": 22,
+    "character": "甲",
+    "sound": "갑",
+    "meaning": "갑옷/첫째 천간",
+    "base": "田",
+    "total": 5
+  },
+  {
+    "id": 23,
+    "character": "降",
+    "sound": "강/항",
+    "meaning": "내릴/항복할 항",
+    "base": "阜",
+    "total": 8
+  },
+  {
+    "id": 24,
+    "character": "康",
+    "sound": "강",
+    "meaning": "편안할",
+    "base": "广",
+    "total": 11
+  },
+  {
+    "id": 25,
+    "character": "講",
+    "sound": "강",
+    "meaning": "익힐",
+    "base": "言",
+    "total": 17
+  },
+  {
+    "id": 26,
+    "character": "強",
+    "sound": "강",
+    "meaning": "굳셀",
+    "base": "弓",
+    "total": 11
+  },
+  {
+    "id": 27,
+    "character": "江",
+    "sound": "강",
+    "meaning": "강",
+    "base": "水",
+    "total": 6
+  },
+  {
+    "id": 28,
+    "character": "個",
+    "sound": "개",
+    "meaning": "낱",
+    "base": "人",
+    "total": 10
+  },
+  {
+    "id": 29,
+    "character": "改",
+    "sound": "개",
+    "meaning": "고칠",
+    "base": "攴",
+    "total": 7
+  },
+  {
+    "id": 30,
+    "character": "開",
+    "sound": "개",
+    "meaning": "열",
+    "base": "門",
+    "total": 12
+  },
+  {
+    "id": 31,
+    "character": "客",
+    "sound": "객",
+    "meaning": "손님/손",
+    "base": "宀",
+    "total": 9
+  },
+  {
+    "id": 32,
+    "character": "居",
+    "sound": "거",
+    "meaning": "살",
+    "base": "尸",
+    "total": 8
+  },
+  {
+    "id": 33,
+    "character": "巨",
+    "sound": "거",
+    "meaning": "클",
+    "base": "工",
+    "total": 4
+  },
+  {
+    "id": 34,
+    "character": "拒",
+    "sound": "거",
+    "meaning": "막을",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 35,
+    "character": "據",
+    "sound": "거",
+    "meaning": "의거할 거",
+    "base": "手",
+    "total": 16
+  },
+  {
+    "id": 36,
+    "character": "去",
+    "sound": "거",
+    "meaning": "갈",
+    "base": "厶",
+    "total": 5
+  },
+  {
+    "id": 37,
+    "character": "擧",
+    "sound": "거",
+    "meaning": "들",
+    "base": "手",
+    "total": 17
+  },
+  {
+    "id": 38,
+    "character": "車",
+    "sound": "거/차",
+    "meaning": "수레",
+    "base": "車",
+    "total": 7
+  },
+  {
+    "id": 39,
+    "character": "件",
+    "sound": "건",
+    "meaning": "사건",
+    "base": "人",
+    "total": 6
+  },
+  {
+    "id": 40,
+    "character": "健",
+    "sound": "건",
+    "meaning": "튼튼할",
+    "base": "人",
+    "total": 10
+  },
+  {
+    "id": 41,
+    "character": "建",
+    "sound": "건",
+    "meaning": "세울",
+    "base": "廴",
+    "total": 8
+  },
+  {
+    "id": 42,
+    "character": "傑",
+    "sound": "걸",
+    "meaning": "뛰어날",
+    "base": "人",
+    "total": 12
+  },
+  {
+    "id": 43,
+    "character": "儉",
+    "sound": "검",
+    "meaning": "검소할",
+    "base": "人",
+    "total": 15
+  },
+  {
+    "id": 44,
+    "character": "檢",
+    "sound": "검",
+    "meaning": "봉함",
+    "base": "木",
+    "total": 17
+  },
+  {
+    "id": 45,
+    "character": "擊",
+    "sound": "격",
+    "meaning": "칠",
+    "base": "手",
+    "total": 17
+  },
+  {
+    "id": 46,
+    "character": "激",
+    "sound": "격",
+    "meaning": "격할",
+    "base": "水",
+    "total": 16
+  },
+  {
+    "id": 47,
+    "character": "格",
+    "sound": "격",
+    "meaning": "격식",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 48,
+    "character": "堅",
+    "sound": "견",
+    "meaning": "굳을",
+    "base": "土",
+    "total": 11
+  },
+  {
+    "id": 49,
+    "character": "犬",
+    "sound": "견",
+    "meaning": "개",
+    "base": "犬",
+    "total": 4
+  },
+  {
+    "id": 50,
+    "character": "見",
+    "sound": "견",
+    "meaning": "볼",
+    "base": "見",
+    "total": 7
+  },
+  {
+    "id": 51,
+    "character": "潔",
+    "sound": "결",
+    "meaning": "깨끗할",
+    "base": "水",
+    "total": 15
+  },
+  {
+    "id": 52,
+    "character": "缺",
+    "sound": "결",
+    "meaning": "이지러질",
+    "base": "缶",
+    "total": 10
+  },
+  {
+    "id": 53,
+    "character": "決",
+    "sound": "결",
+    "meaning": "결단할",
+    "base": "水",
+    "total": 7
+  },
+  {
+    "id": 54,
+    "character": "結",
+    "sound": "결",
+    "meaning": "맺을",
+    "base": "糸",
+    "total": 12
+  },
+  {
+    "id": 55,
+    "character": "傾",
+    "sound": "경",
+    "meaning": "기울",
+    "base": "人",
+    "total": 13
+  },
+  {
+    "id": 56,
+    "character": "更",
+    "sound": "경",
+    "meaning": "고칠 경/다시 갱",
+    "base": "曰",
+    "total": 7
+  },
+  {
+    "id": 57,
+    "character": "鏡",
+    "sound": "경",
+    "meaning": "거울",
+    "base": "金",
+    "total": 19
+  },
+  {
+    "id": 58,
+    "character": "驚",
+    "sound": "경",
+    "meaning": "놀랄",
+    "base": "馬",
+    "total": 22
+  },
+  {
+    "id": 59,
+    "character": "境",
+    "sound": "경",
+    "meaning": "지경",
+    "base": "土",
+    "total": 14
+  },
+  {
+    "id": 60,
+    "character": "慶",
+    "sound": "경",
+    "meaning": "경사",
+    "base": "心",
+    "total": 15
+  },
+  {
+    "id": 61,
+    "character": "經",
+    "sound": "경",
+    "meaning": "날",
+    "base": "糸",
+    "total": 13
+  },
+  {
+    "id": 62,
+    "character": "警",
+    "sound": "경",
+    "meaning": "경계할",
+    "base": "言",
+    "total": 19
+  },
+  {
+    "id": 63,
+    "character": "景",
+    "sound": "경",
+    "meaning": "볕",
+    "base": "日",
+    "total": 12
+  },
+  {
+    "id": 64,
+    "character": "競",
+    "sound": "경",
+    "meaning": "겨룰/다툴",
+    "base": "立",
+    "total": 20
+  },
+  {
+    "id": 65,
+    "character": "輕",
+    "sound": "경",
+    "meaning": "가벼울",
+    "base": "車",
+    "total": 14
+  },
+  {
+    "id": 66,
+    "character": "敬",
+    "sound": "경",
+    "meaning": "공경할",
+    "base": "攴",
+    "total": 12
+  },
+  {
+    "id": 67,
+    "character": "京",
+    "sound": "경",
+    "meaning": "서울",
+    "base": "亠",
+    "total": 8
+  },
+  {
+    "id": 68,
+    "character": "季",
+    "sound": "계",
+    "meaning": "끝",
+    "base": "子",
+    "total": 8
+  },
+  {
+    "id": 69,
+    "character": "戒",
+    "sound": "계",
+    "meaning": "경계",
+    "base": "戈",
+    "total": 7
+  },
+  {
+    "id": 70,
+    "character": "系",
+    "sound": "계",
+    "meaning": "맬",
+    "base": "糸",
+    "total": 7
+  },
+  {
+    "id": 71,
+    "character": "繼",
+    "sound": "계",
+    "meaning": "이을",
+    "base": "糸",
+    "total": 20
+  },
+  {
+    "id": 72,
+    "character": "階",
+    "sound": "계",
+    "meaning": "섬돌",
+    "base": "阜",
+    "total": 11
+  },
+  {
+    "id": 73,
+    "character": "鷄",
+    "sound": "계",
+    "meaning": "닭",
+    "base": "鳥",
+    "total": 21
+  },
+  {
+    "id": 74,
+    "character": "係",
+    "sound": "계",
+    "meaning": "맬/걸릴",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 75,
+    "character": "界",
+    "sound": "계",
+    "meaning": "지경",
+    "base": "田",
+    "total": 9
+  },
+  {
+    "id": 76,
+    "character": "計",
+    "sound": "계",
+    "meaning": "셀",
+    "base": "言",
+    "total": 9
+  },
+  {
+    "id": 77,
+    "character": "孤",
+    "sound": "고",
+    "meaning": "외로울",
+    "base": "子",
+    "total": 8
+  },
+  {
+    "id": 78,
+    "character": "庫",
+    "sound": "고",
+    "meaning": "곳집",
+    "base": "广",
+    "total": 10
+  },
+  {
+    "id": 79,
+    "character": "故",
+    "sound": "고",
+    "meaning": "옛/까닭",
+    "base": "攴",
+    "total": 9
+  },
+  {
+    "id": 80,
+    "character": "固",
+    "sound": "고",
+    "meaning": "굳을",
+    "base": "囗",
+    "total": 8
+  },
+  {
+    "id": 81,
+    "character": "考",
+    "sound": "고",
+    "meaning": "상고할",
+    "base": "老",
+    "total": 6
+  },
+  {
+    "id": 82,
+    "character": "告",
+    "sound": "고",
+    "meaning": "알릴",
+    "base": "口",
+    "total": 7
+  },
+  {
+    "id": 83,
+    "character": "古",
+    "sound": "고",
+    "meaning": "옛",
+    "base": "口",
+    "total": 5
+  },
+  {
+    "id": 84,
+    "character": "苦",
+    "sound": "고",
+    "meaning": "쓸",
+    "base": "艸",
+    "total": 8
+  },
+  {
+    "id": 85,
+    "character": "高",
+    "sound": "고",
+    "meaning": "높을",
+    "base": "高",
+    "total": 10
+  },
+  {
+    "id": 86,
+    "character": "穀",
+    "sound": "곡",
+    "meaning": "곡식",
+    "base": "禾",
+    "total": 15
+  },
+  {
+    "id": 87,
+    "character": "曲",
+    "sound": "곡",
+    "meaning": "굽을",
+    "base": "曰",
+    "total": 6
+  },
+  {
+    "id": 88,
+    "character": "困",
+    "sound": "곤",
+    "meaning": "곤할",
+    "base": "囗",
+    "total": 7
+  },
+  {
+    "id": 89,
+    "character": "骨",
+    "sound": "골",
+    "meaning": "뼈",
+    "base": "骨",
+    "total": 10
+  },
+  {
+    "id": 90,
+    "character": "孔",
+    "sound": "공",
+    "meaning": "구멍",
+    "base": "子",
+    "total": 4
+  },
+  {
+    "id": 91,
+    "character": "攻",
+    "sound": "공",
+    "meaning": "칠",
+    "base": "攴",
+    "total": 7
+  },
+  {
+    "id": 92,
+    "character": "公",
+    "sound": "공",
+    "meaning": "공변될",
+    "base": "八",
+    "total": 4
+  },
+  {
+    "id": 93,
+    "character": "共",
+    "sound": "공",
+    "meaning": "함께",
+    "base": "八",
+    "total": 6
+  },
+  {
+    "id": 94,
+    "character": "功",
+    "sound": "공",
+    "meaning": "공",
+    "base": "力",
+    "total": 5
+  },
+  {
+    "id": 95,
+    "character": "工",
+    "sound": "공",
+    "meaning": "장인",
+    "base": "工",
+    "total": 3
+  },
+  {
+    "id": 96,
+    "character": "空",
+    "sound": "공",
+    "meaning": "빌",
+    "base": "穴",
+    "total": 8
+  },
+  {
+    "id": 97,
+    "character": "課",
+    "sound": "과",
+    "meaning": "공부할",
+    "base": "言",
+    "total": 15
+  },
+  {
+    "id": 98,
+    "character": "過",
+    "sound": "과",
+    "meaning": "지날",
+    "base": "辵",
+    "total": 11
+  },
+  {
+    "id": 99,
+    "character": "果",
+    "sound": "과",
+    "meaning": "실과",
+    "base": "木",
+    "total": 8
+  },
+  {
+    "id": 100,
+    "character": "科",
+    "sound": "과",
+    "meaning": "과목/과정",
+    "base": "禾",
+    "total": 9
+  },
+  {
+    "id": 101,
+    "character": "管",
+    "sound": "관",
+    "meaning": "피리",
+    "base": "竹",
+    "total": 14
+  },
+  {
+    "id": 102,
+    "character": "官",
+    "sound": "관",
+    "meaning": "벼슬",
+    "base": "宀",
+    "total": 8
+  },
+  {
+    "id": 103,
+    "character": "觀",
+    "sound": "관",
+    "meaning": "볼",
+    "base": "見",
+    "total": 24
+  },
+  {
+    "id": 104,
+    "character": "關",
+    "sound": "관",
+    "meaning": "빗장",
+    "base": "門",
+    "total": 19
+  },
+  {
+    "id": 105,
+    "character": "鑛",
+    "sound": "광",
+    "meaning": "쇳돌",
+    "base": "金",
+    "total": 22
+  },
+  {
+    "id": 106,
+    "character": "廣",
+    "sound": "광",
+    "meaning": "넓을",
+    "base": "广",
+    "total": 14
+  },
+  {
+    "id": 107,
+    "character": "光",
+    "sound": "광",
+    "meaning": "빛",
+    "base": "儿",
+    "total": 6
+  },
+  {
+    "id": 108,
+    "character": "橋",
+    "sound": "교",
+    "meaning": "다리",
+    "base": "木",
+    "total": 16
+  },
+  {
+    "id": 109,
+    "character": "交",
+    "sound": "교",
+    "meaning": "사귈",
+    "base": "亠",
+    "total": 6
+  },
+  {
+    "id": 110,
+    "character": "敎",
+    "sound": "교",
+    "meaning": "가르칠",
+    "base": "攴",
+    "total": 11
+  },
+  {
+    "id": 111,
+    "character": "校",
+    "sound": "교",
+    "meaning": "학교",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 112,
+    "character": "構",
+    "sound": "구",
+    "meaning": "얽을 ",
+    "base": "木",
+    "total": 14
+  },
+  {
+    "id": 113,
+    "character": "句",
+    "sound": "구",
+    "meaning": "글귀",
+    "base": "口",
+    "total": 5
+  },
+  {
+    "id": 114,
+    "character": "求",
+    "sound": "구",
+    "meaning": "구할",
+    "base": "水",
+    "total": 7
+  },
+  {
+    "id": 115,
+    "character": "究",
+    "sound": "구",
+    "meaning": "궁구할",
+    "base": "穴",
+    "total": 7
+  },
+  {
+    "id": 116,
+    "character": "救",
+    "sound": "구",
+    "meaning": "구원할/건질",
+    "base": "攴",
+    "total": 11
+  },
+  {
+    "id": 117,
+    "character": "具",
+    "sound": "구",
+    "meaning": "갖출",
+    "base": "八",
+    "total": 8
+  },
+  {
+    "id": 118,
+    "character": "舊",
+    "sound": "구",
+    "meaning": "옛/예",
+    "base": "臼",
+    "total": 17
+  },
+  {
+    "id": 119,
+    "character": "區",
+    "sound": "구",
+    "meaning": "구분할/지경",
+    "base": "匸",
+    "total": 11
+  },
+  {
+    "id": 120,
+    "character": "球",
+    "sound": "구",
+    "meaning": "공",
+    "base": "玉",
+    "total": 11
+  },
+  {
+    "id": 121,
+    "character": "口",
+    "sound": "구",
+    "meaning": "입",
+    "base": "口",
+    "total": 3
+  },
+  {
+    "id": 122,
+    "character": "九",
+    "sound": "구",
+    "meaning": "아홉",
+    "base": "乙",
+    "total": 2
+  },
+  {
+    "id": 123,
+    "character": "局",
+    "sound": "국",
+    "meaning": "판",
+    "base": "尸",
+    "total": 7
+  },
+  {
+    "id": 124,
+    "character": "國",
+    "sound": "국",
+    "meaning": "나라",
+    "base": "囗",
+    "total": 11
+  },
+  {
+    "id": 125,
+    "character": "君",
+    "sound": "군",
+    "meaning": "임금",
+    "base": "口",
+    "total": 7
+  },
+  {
+    "id": 126,
+    "character": "群",
+    "sound": "군",
+    "meaning": "무리",
+    "base": "羊",
+    "total": 13
+  },
+  {
+    "id": 127,
+    "character": "郡",
+    "sound": "군",
+    "meaning": "고을",
+    "base": "邑",
+    "total": 9
+  },
+  {
+    "id": 128,
+    "character": "軍",
+    "sound": "군",
+    "meaning": "군사",
+    "base": "車",
+    "total": 9
+  },
+  {
+    "id": 129,
+    "character": "屈",
+    "sound": "굴",
+    "meaning": "굽을",
+    "base": "尸",
+    "total": 8
+  },
+  {
+    "id": 130,
+    "character": "窮",
+    "sound": "궁",
+    "meaning": "다할",
+    "base": "穴",
+    "total": 15
+  },
+  {
+    "id": 131,
+    "character": "宮",
+    "sound": "궁",
+    "meaning": "궁/집",
+    "base": "宀",
+    "total": 10
+  },
+  {
+    "id": 132,
+    "character": "券",
+    "sound": "권",
+    "meaning": "문서",
+    "base": "刀",
+    "total": 8
+  },
+  {
+    "id": 133,
+    "character": "勸",
+    "sound": "권",
+    "meaning": "권할",
+    "base": "力",
+    "total": 19
+  },
+  {
+    "id": 134,
+    "character": "卷",
+    "sound": "권",
+    "meaning": "쇠뇌",
+    "base": "卩",
+    "total": 8
+  },
+  {
+    "id": 135,
+    "character": "權",
+    "sound": "권",
+    "meaning": "저울추",
+    "base": "木",
+    "total": 21
+  },
+  {
+    "id": 136,
+    "character": "歸",
+    "sound": "귀",
+    "meaning": "돌아갈",
+    "base": "止",
+    "total": 18
+  },
+  {
+    "id": 137,
+    "character": "貴",
+    "sound": "귀",
+    "meaning": "귀할",
+    "base": "貝",
+    "total": 12
+  },
+  {
+    "id": 138,
+    "character": "規",
+    "sound": "규",
+    "meaning": "법",
+    "base": "見",
+    "total": 11
+  },
+  {
+    "id": 139,
+    "character": "均",
+    "sound": "균",
+    "meaning": "고를",
+    "base": "土",
+    "total": 7
+  },
+  {
+    "id": 140,
+    "character": "劇",
+    "sound": "극",
+    "meaning": "심할",
+    "base": "刀",
+    "total": 15
+  },
+  {
+    "id": 141,
+    "character": "極",
+    "sound": "극",
+    "meaning": "다할",
+    "base": "木",
+    "total": 12
+  },
+  {
+    "id": 142,
+    "character": "勤",
+    "sound": "근",
+    "meaning": "부지런할",
+    "base": "力",
+    "total": 13
+  },
+  {
+    "id": 143,
+    "character": "筋",
+    "sound": "근",
+    "meaning": "힘줄",
+    "base": "竹",
+    "total": 12
+  },
+  {
+    "id": 144,
+    "character": "根",
+    "sound": "근",
+    "meaning": "뿌리",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 145,
+    "character": "近",
+    "sound": "근",
+    "meaning": "가까울",
+    "base": "辵",
+    "total": 7
+  },
+  {
+    "id": 146,
+    "character": "禁",
+    "sound": "금",
+    "meaning": "금할",
+    "base": "示",
+    "total": 13
+  },
+  {
+    "id": 147,
+    "character": "今",
+    "sound": "금",
+    "meaning": "이제",
+    "base": "人",
+    "total": 4
+  },
+  {
+    "id": 148,
+    "character": "金",
+    "sound": "금",
+    "meaning": "쇠/성씨",
+    "base": "金",
+    "total": 8
+  },
+  {
+    "id": 149,
+    "character": "給",
+    "sound": "급",
+    "meaning": "줄/공급할/넉넉할",
+    "base": "糸",
+    "total": 12
+  },
+  {
+    "id": 150,
+    "character": "急",
+    "sound": "급",
+    "meaning": "급할",
+    "base": "心",
+    "total": 9
+  },
+  {
+    "id": 151,
+    "character": "級",
+    "sound": "급",
+    "meaning": "등급",
+    "base": "糸",
+    "total": 9
+  },
+  {
+    "id": 152,
+    "character": "奇",
+    "sound": "기",
+    "meaning": "기이할",
+    "base": "大",
+    "total": 8
+  },
+  {
+    "id": 153,
+    "character": "寄",
+    "sound": "기",
+    "meaning": "부칠",
+    "base": "宀",
+    "total": 11
+  },
+  {
+    "id": 154,
+    "character": "機",
+    "sound": "기",
+    "meaning": "틀",
+    "base": "木",
+    "total": 16
+  },
+  {
+    "id": 155,
+    "character": "紀",
+    "sound": "기",
+    "meaning": "벼리",
+    "base": "糸",
+    "total": 9
+  },
+  {
+    "id": 156,
+    "character": "器",
+    "sound": "기",
+    "meaning": "그릇",
+    "base": "口",
+    "total": 16
+  },
+  {
+    "id": 157,
+    "character": "起",
+    "sound": "기",
+    "meaning": "일어날",
+    "base": "走",
+    "total": 10
+  },
+  {
+    "id": 158,
+    "character": "技",
+    "sound": "기",
+    "meaning": "재주",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 159,
+    "character": "期",
+    "sound": "기",
+    "meaning": "기약할",
+    "base": "月",
+    "total": 12
+  },
+  {
+    "id": 160,
+    "character": "汽",
+    "sound": "기",
+    "meaning": "물 끓는 김",
+    "base": "水",
+    "total": 7
+  },
+  {
+    "id": 161,
+    "character": "基",
+    "sound": "기",
+    "meaning": "터",
+    "base": "土",
+    "total": 11
+  },
+  {
+    "id": 162,
+    "character": "己",
+    "sound": "기",
+    "meaning": "몸/자기",
+    "base": "己",
+    "total": 3
+  },
+  {
+    "id": 163,
+    "character": "旗",
+    "sound": "기",
+    "meaning": "기/깃발",
+    "base": "方",
+    "total": 14
+  },
+  {
+    "id": 164,
+    "character": "氣",
+    "sound": "기",
+    "meaning": "기운",
+    "base": "气",
+    "total": 10
+  },
+  {
+    "id": 165,
+    "character": "記",
+    "sound": "기",
+    "meaning": "기록할",
+    "base": "言",
+    "total": 10
+  },
+  {
+    "id": 166,
+    "character": "吉",
+    "sound": "길",
+    "meaning": "길할",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 167,
+    "character": "暖",
+    "sound": "난",
+    "meaning": "따뜻할",
+    "base": "日",
+    "total": 13
+  },
+  {
+    "id": 168,
+    "character": "難",
+    "sound": "난",
+    "meaning": "어려울",
+    "base": "隹",
+    "total": 19
+  },
+  {
+    "id": 169,
+    "character": "男",
+    "sound": "남",
+    "meaning": "사내",
+    "base": "田",
+    "total": 7
+  },
+  {
+    "id": 170,
+    "character": "南",
+    "sound": "남",
+    "meaning": "남쪽/남녘",
+    "base": "十",
+    "total": 9
+  },
+  {
+    "id": 171,
+    "character": "納",
+    "sound": "납",
+    "meaning": "들일",
+    "base": "糸",
+    "total": 10
+  },
+  {
+    "id": 172,
+    "character": "內",
+    "sound": "내",
+    "meaning": "안",
+    "base": "入",
+    "total": 4
+  },
+  {
+    "id": 173,
+    "character": "女",
+    "sound": "녀",
+    "meaning": "여자",
+    "base": "女",
+    "total": 3
+  },
+  {
+    "id": 174,
+    "character": "年",
+    "sound": "년",
+    "meaning": "해",
+    "base": "干",
+    "total": 6
+  },
+  {
+    "id": 175,
+    "character": "念",
+    "sound": "념",
+    "meaning": "생각할",
+    "base": "心",
+    "total": 8
+  },
+  {
+    "id": 176,
+    "character": "努",
+    "sound": "노",
+    "meaning": "힘쓸",
+    "base": "力",
+    "total": 7
+  },
+  {
+    "id": 177,
+    "character": "怒",
+    "sound": "노",
+    "meaning": "성낼",
+    "base": "心",
+    "total": 9
+  },
+  {
+    "id": 178,
+    "character": "農",
+    "sound": "농",
+    "meaning": "농사",
+    "base": "辰",
+    "total": 13
+  },
+  {
+    "id": 179,
+    "character": "能",
+    "sound": "능",
+    "meaning": "능할",
+    "base": "肉",
+    "total": 10
+  },
+  {
+    "id": 180,
+    "character": "多",
+    "sound": "다",
+    "meaning": "많을",
+    "base": "夕",
+    "total": 6
+  },
+  {
+    "id": 181,
+    "character": "段",
+    "sound": "단",
+    "meaning": "구분",
+    "base": "殳",
+    "total": 9
+  },
+  {
+    "id": 182,
+    "character": "單",
+    "sound": "단",
+    "meaning": "홑",
+    "base": "口",
+    "total": 12
+  },
+  {
+    "id": 183,
+    "character": "斷",
+    "sound": "단",
+    "meaning": "끊을",
+    "base": "斤",
+    "total": 18
+  },
+  {
+    "id": 184,
+    "character": "檀",
+    "sound": "단",
+    "meaning": "박달나무",
+    "base": "木",
+    "total": 17
+  },
+  {
+    "id": 185,
+    "character": "端",
+    "sound": "단",
+    "meaning": "끝",
+    "base": "立",
+    "total": 14
+  },
+  {
+    "id": 186,
+    "character": "壇",
+    "sound": "단",
+    "meaning": "단/제단",
+    "base": "土",
+    "total": 16
+  },
+  {
+    "id": 187,
+    "character": "團",
+    "sound": "단",
+    "meaning": "둥글",
+    "base": "囗",
+    "total": 14
+  },
+  {
+    "id": 188,
+    "character": "短",
+    "sound": "단",
+    "meaning": "짧을",
+    "base": "矢",
+    "total": 12
+  },
+  {
+    "id": 189,
+    "character": "達",
+    "sound": "달",
+    "meaning": "통달할",
+    "base": "辵",
+    "total": 12
+  },
+  {
+    "id": 190,
+    "character": "擔",
+    "sound": "담",
+    "meaning": "멜",
+    "base": "手",
+    "total": 16
+  },
+  {
+    "id": 191,
+    "character": "談",
+    "sound": "담",
+    "meaning": "말씀",
+    "base": "言",
+    "total": 15
+  },
+  {
+    "id": 192,
+    "character": "答",
+    "sound": "답",
+    "meaning": "대답할",
+    "base": "竹",
+    "total": 12
+  },
+  {
+    "id": 193,
+    "character": "黨",
+    "sound": "당",
+    "meaning": "무리",
+    "base": "黑",
+    "total": 20
+  },
+  {
+    "id": 194,
+    "character": "當",
+    "sound": "당",
+    "meaning": "마땅",
+    "base": "田",
+    "total": 13
+  },
+  {
+    "id": 195,
+    "character": "堂",
+    "sound": "당",
+    "meaning": "집",
+    "base": "土",
+    "total": 11
+  },
+  {
+    "id": 196,
+    "character": "帶",
+    "sound": "대",
+    "meaning": "띠",
+    "base": "巾",
+    "total": 11
+  },
+  {
+    "id": 197,
+    "character": "隊",
+    "sound": "대",
+    "meaning": "무리",
+    "base": "阜",
+    "total": 11
+  },
+  {
+    "id": 198,
+    "character": "代",
+    "sound": "대",
+    "meaning": "대신할",
+    "base": "人",
+    "total": 5
+  },
+  {
+    "id": 199,
+    "character": "對",
+    "sound": "대",
+    "meaning": "대할/마주할",
+    "base": "寸",
+    "total": 14
+  },
+  {
+    "id": 200,
+    "character": "待",
+    "sound": "대",
+    "meaning": "기다릴",
+    "base": "彳",
+    "total": 9
+  },
+  {
+    "id": 201,
+    "character": "大",
+    "sound": "대",
+    "meaning": "큰",
+    "base": "大",
+    "total": 3
+  },
+  {
+    "id": 202,
+    "character": "德",
+    "sound": "덕",
+    "meaning": "덕",
+    "base": "彳",
+    "total": 15
+  },
+  {
+    "id": 203,
+    "character": "徒",
+    "sound": "도",
+    "meaning": "무리",
+    "base": "彳",
+    "total": 10
+  },
+  {
+    "id": 204,
+    "character": "盜",
+    "sound": "도",
+    "meaning": "훔칠",
+    "base": "皿",
+    "total": 12
+  },
+  {
+    "id": 205,
+    "character": "逃",
+    "sound": "도",
+    "meaning": "달아날",
+    "base": "辵",
+    "total": 9
+  },
+  {
+    "id": 206,
+    "character": "導",
+    "sound": "도",
+    "meaning": "이끌",
+    "base": "寸",
+    "total": 15
+  },
+  {
+    "id": 207,
+    "character": "島",
+    "sound": "도",
+    "meaning": "섬",
+    "base": "山",
+    "total": 10
+  },
+  {
+    "id": 208,
+    "character": "都",
+    "sound": "도",
+    "meaning": "도읍",
+    "base": "邑",
+    "total": 10
+  },
+  {
+    "id": 209,
+    "character": "到",
+    "sound": "도",
+    "meaning": "이를",
+    "base": "刀",
+    "total": 8
+  },
+  {
+    "id": 210,
+    "character": "圖",
+    "sound": "도",
+    "meaning": "그림",
+    "base": "囗",
+    "total": 14
+  },
+  {
+    "id": 211,
+    "character": "度",
+    "sound": "도",
+    "meaning": "법도",
+    "base": "广",
+    "total": 9
+  },
+  {
+    "id": 212,
+    "character": "道",
+    "sound": "도",
+    "meaning": "길",
+    "base": "辵",
+    "total": 12
+  },
+  {
+    "id": 213,
+    "character": "毒",
+    "sound": "독",
+    "meaning": "독",
+    "base": "毋",
+    "total": 9
+  },
+  {
+    "id": 214,
+    "character": "督",
+    "sound": "독",
+    "meaning": "살펴볼",
+    "base": "目",
+    "total": 13
+  },
+  {
+    "id": 215,
+    "character": "獨",
+    "sound": "독",
+    "meaning": "홀로",
+    "base": "犬",
+    "total": 16
+  },
+  {
+    "id": 216,
+    "character": "讀",
+    "sound": "독",
+    "meaning": "읽을",
+    "base": "言",
+    "total": 22
+  },
+  {
+    "id": 217,
+    "character": "銅",
+    "sound": "동",
+    "meaning": "구리",
+    "base": "金",
+    "total": 14
+  },
+  {
+    "id": 218,
+    "character": "童",
+    "sound": "동",
+    "meaning": "아이",
+    "base": "立",
+    "total": 12
+  },
+  {
+    "id": 219,
+    "character": "冬",
+    "sound": "동",
+    "meaning": "겨울",
+    "base": "冫",
+    "total": 5
+  },
+  {
+    "id": 220,
+    "character": "動",
+    "sound": "동",
+    "meaning": "움직일",
+    "base": "力",
+    "total": 11
+  },
+  {
+    "id": 221,
+    "character": "同",
+    "sound": "동",
+    "meaning": "같은",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 222,
+    "character": "洞",
+    "sound": "동",
+    "meaning": "고을",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 223,
+    "character": "東",
+    "sound": "동",
+    "meaning": "동녘/동쪽",
+    "base": "木",
+    "total": 8
+  },
+  {
+    "id": 224,
+    "character": "斗",
+    "sound": "두",
+    "meaning": "말씀",
+    "base": "斗",
+    "total": 4
+  },
+  {
+    "id": 225,
+    "character": "豆",
+    "sound": "두",
+    "meaning": "콩",
+    "base": "豆",
+    "total": 7
+  },
+  {
+    "id": 226,
+    "character": "頭",
+    "sound": "두",
+    "meaning": "머리",
+    "base": "頁",
+    "total": 16
+  },
+  {
+    "id": 227,
+    "character": "得",
+    "sound": "득",
+    "meaning": "얻을",
+    "base": "彳",
+    "total": 11
+  },
+  {
+    "id": 228,
+    "character": "燈",
+    "sound": "등",
+    "meaning": "등잔",
+    "base": "火",
+    "total": 16
+  },
+  {
+    "id": 229,
+    "character": "等",
+    "sound": "등",
+    "meaning": "무리",
+    "base": "竹",
+    "total": 12
+  },
+  {
+    "id": 230,
+    "character": "登",
+    "sound": "등",
+    "meaning": "오를",
+    "base": "癶",
+    "total": 12
+  },
+  {
+    "id": 231,
+    "character": "羅",
+    "sound": "라",
+    "meaning": "새그물",
+    "base": "网",
+    "total": 19
+  },
+  {
+    "id": 232,
+    "character": "落",
+    "sound": "락",
+    "meaning": "떨어질",
+    "base": "艸",
+    "total": 12
+  },
+  {
+    "id": 233,
+    "character": "樂",
+    "sound": "락",
+    "meaning": "즐거울/즐길",
+    "base": "木",
+    "total": 15
+  },
+  {
+    "id": 234,
+    "character": "亂",
+    "sound": "란",
+    "meaning": "어지러울",
+    "base": "乙",
+    "total": 13
+  },
+  {
+    "id": 235,
+    "character": "卵",
+    "sound": "란",
+    "meaning": "알",
+    "base": "卩",
+    "total": 7
+  },
+  {
+    "id": 236,
+    "character": "覽",
+    "sound": "람",
+    "meaning": "볼",
+    "base": "見",
+    "total": 21
+  },
+  {
+    "id": 237,
+    "character": "朗",
+    "sound": "랑",
+    "meaning": "밝을",
+    "base": "月",
+    "total": 10
+  },
+  {
+    "id": 238,
+    "character": "來",
+    "sound": "래",
+    "meaning": "올",
+    "base": "人",
+    "total": 8
+  },
+  {
+    "id": 239,
+    "character": "冷",
+    "sound": "랭",
+    "meaning": "찰",
+    "base": "冫",
+    "total": 7
+  },
+  {
+    "id": 240,
+    "character": "略",
+    "sound": "략",
+    "meaning": "다스릴",
+    "base": "田",
+    "total": 11
+  },
+  {
+    "id": 241,
+    "character": "糧",
+    "sound": "량",
+    "meaning": "양식",
+    "base": "米",
+    "total": 18
+  },
+  {
+    "id": 242,
+    "character": "兩",
+    "sound": "량",
+    "meaning": "두",
+    "base": "入",
+    "total": 8
+  },
+  {
+    "id": 243,
+    "character": "量",
+    "sound": "량",
+    "meaning": "헤아릴",
+    "base": "里",
+    "total": 12
+  },
+  {
+    "id": 244,
+    "character": "良",
+    "sound": "량",
+    "meaning": "좋을/어질",
+    "base": "艮",
+    "total": 7
+  },
+  {
+    "id": 245,
+    "character": "慮",
+    "sound": "려",
+    "meaning": "생각할",
+    "base": "心",
+    "total": 15
+  },
+  {
+    "id": 246,
+    "character": "麗",
+    "sound": "려",
+    "meaning": "고울",
+    "base": "鹿",
+    "total": 19
+  },
+  {
+    "id": 247,
+    "character": "旅",
+    "sound": "려",
+    "meaning": "나그네/군사",
+    "base": "方",
+    "total": 10
+  },
+  {
+    "id": 248,
+    "character": "歷",
+    "sound": "력",
+    "meaning": "지낼",
+    "base": "止",
+    "total": 16
+  },
+  {
+    "id": 249,
+    "character": "力",
+    "sound": "력",
+    "meaning": "힘",
+    "base": "力",
+    "total": 2
+  },
+  {
+    "id": 250,
+    "character": "連",
+    "sound": "련",
+    "meaning": "잇닿을",
+    "base": "辵",
+    "total": 10
+  },
+  {
+    "id": 251,
+    "character": "練",
+    "sound": "련",
+    "meaning": "익힐",
+    "base": "糸",
+    "total": 15
+  },
+  {
+    "id": 252,
+    "character": "烈",
+    "sound": "렬",
+    "meaning": "세찰",
+    "base": "火",
+    "total": 10
+  },
+  {
+    "id": 253,
+    "character": "列",
+    "sound": "렬",
+    "meaning": "벌일",
+    "base": "刀",
+    "total": 6
+  },
+  {
+    "id": 254,
+    "character": "令",
+    "sound": "령",
+    "meaning": "하여금",
+    "base": "人",
+    "total": 5
+  },
+  {
+    "id": 255,
+    "character": "領",
+    "sound": "령",
+    "meaning": "옷깃",
+    "base": "頁",
+    "total": 14
+  },
+  {
+    "id": 256,
+    "character": "例",
+    "sound": "례",
+    "meaning": "법식",
+    "base": "人",
+    "total": 8
+  },
+  {
+    "id": 257,
+    "character": "禮",
+    "sound": "례",
+    "meaning": "예도",
+    "base": "示",
+    "total": 17
+  },
+  {
+    "id": 258,
+    "character": "勞",
+    "sound": "로",
+    "meaning": "일할",
+    "base": "力",
+    "total": 12
+  },
+  {
+    "id": 259,
+    "character": "路",
+    "sound": "로",
+    "meaning": "길",
+    "base": "足",
+    "total": 13
+  },
+  {
+    "id": 260,
+    "character": "老",
+    "sound": "로",
+    "meaning": "늙을",
+    "base": "老",
+    "total": 6
+  },
+  {
+    "id": 261,
+    "character": "錄",
+    "sound": "록",
+    "meaning": "기록할",
+    "base": "金",
+    "total": 16
+  },
+  {
+    "id": 262,
+    "character": "綠",
+    "sound": "록",
+    "meaning": "초록빛",
+    "base": "糸",
+    "total": 14
+  },
+  {
+    "id": 263,
+    "character": "論",
+    "sound": "론",
+    "meaning": "논할",
+    "base": "言",
+    "total": 15
+  },
+  {
+    "id": 264,
+    "character": "料",
+    "sound": "료",
+    "meaning": "헤아릴",
+    "base": "斗",
+    "total": 10
+  },
+  {
+    "id": 265,
+    "character": "龍",
+    "sound": "룡",
+    "meaning": "용",
+    "base": "龍",
+    "total": 16
+  },
+  {
+    "id": 266,
+    "character": "柳",
+    "sound": "류",
+    "meaning": "버들",
+    "base": "木",
+    "total": 9
+  },
+  {
+    "id": 267,
+    "character": "留",
+    "sound": "류",
+    "meaning": "머무를",
+    "base": "田",
+    "total": 10
+  },
+  {
+    "id": 268,
+    "character": "流",
+    "sound": "류",
+    "meaning": "흐를",
+    "base": "水",
+    "total": 10
+  },
+  {
+    "id": 269,
+    "character": "類",
+    "sound": "류",
+    "meaning": "무리",
+    "base": "頁",
+    "total": 19
+  },
+  {
+    "id": 270,
+    "character": "陸",
+    "sound": "륙",
+    "meaning": "뭍",
+    "base": "阜",
+    "total": 10
+  },
+  {
+    "id": 271,
+    "character": "六",
+    "sound": "륙",
+    "meaning": "여섯",
+    "base": "八",
+    "total": 4
+  },
+  {
+    "id": 272,
+    "character": "輪",
+    "sound": "륜",
+    "meaning": "바퀴",
+    "base": "車",
+    "total": 15
+  },
+  {
+    "id": 273,
+    "character": "律",
+    "sound": "률",
+    "meaning": "법",
+    "base": "彳",
+    "total": 9
+  },
+  {
+    "id": 274,
+    "character": "離",
+    "sound": "리",
+    "meaning": "떠날",
+    "base": "隹",
+    "total": 18
+  },
+  {
+    "id": 275,
+    "character": "利",
+    "sound": "리",
+    "meaning": "날카로운",
+    "base": "刀",
+    "total": 7
+  },
+  {
+    "id": 276,
+    "character": "李",
+    "sound": "리",
+    "meaning": "오얏(자두)/오얏(자두)나무",
+    "base": "木",
+    "total": 7
+  },
+  {
+    "id": 277,
+    "character": "理",
+    "sound": "리",
+    "meaning": "다스릴",
+    "base": "玉",
+    "total": 11
+  },
+  {
+    "id": 278,
+    "character": "里",
+    "sound": "리",
+    "meaning": "마을",
+    "base": "里",
+    "total": 7
+  },
+  {
+    "id": 279,
+    "character": "林",
+    "sound": "림",
+    "meaning": "수풀",
+    "base": "木",
+    "total": 8
+  },
+  {
+    "id": 280,
+    "character": "立",
+    "sound": "립",
+    "meaning": "설",
+    "base": "立",
+    "total": 5
+  },
+  {
+    "id": 281,
+    "character": "馬",
+    "sound": "마",
+    "meaning": "말",
+    "base": "馬",
+    "total": 10
+  },
+  {
+    "id": 282,
+    "character": "滿",
+    "sound": "만",
+    "meaning": "찰",
+    "base": "水",
+    "total": 14
+  },
+  {
+    "id": 283,
+    "character": "萬",
+    "sound": "만",
+    "meaning": "일만",
+    "base": "禸",
+    "total": 12
+  },
+  {
+    "id": 284,
+    "character": "末",
+    "sound": "말",
+    "meaning": "끝",
+    "base": "木",
+    "total": 5
+  },
+  {
+    "id": 285,
+    "character": "亡",
+    "sound": "망",
+    "meaning": "망할",
+    "base": "亠",
+    "total": 3
+  },
+  {
+    "id": 286,
+    "character": "望",
+    "sound": "망",
+    "meaning": "바랄",
+    "base": "月",
+    "total": 11
+  },
+  {
+    "id": 287,
+    "character": "妹",
+    "sound": "매",
+    "meaning": "누이",
+    "base": "女",
+    "total": 8
+  },
+  {
+    "id": 288,
+    "character": "買",
+    "sound": "매",
+    "meaning": "살",
+    "base": "貝",
+    "total": 12
+  },
+  {
+    "id": 289,
+    "character": "賣",
+    "sound": "매",
+    "meaning": "팔",
+    "base": "貝",
+    "total": 15
+  },
+  {
+    "id": 290,
+    "character": "每",
+    "sound": "매",
+    "meaning": "매양/매번",
+    "base": "毋",
+    "total": 7
+  },
+  {
+    "id": 291,
+    "character": "脈",
+    "sound": "맥",
+    "meaning": "맥",
+    "base": "肉",
+    "total": 10
+  },
+  {
+    "id": 292,
+    "character": "勉",
+    "sound": "면",
+    "meaning": "힘쓸",
+    "base": "力",
+    "total": 9
+  },
+  {
+    "id": 293,
+    "character": "面",
+    "sound": "면",
+    "meaning": "낯/얼굴",
+    "base": "面",
+    "total": 9
+  },
+  {
+    "id": 294,
+    "character": "鳴",
+    "sound": "명",
+    "meaning": "울",
+    "base": "鳥",
+    "total": 14
+  },
+  {
+    "id": 295,
+    "character": "明",
+    "sound": "명",
+    "meaning": "밝을",
+    "base": "日",
+    "total": 8
+  },
+  {
+    "id": 296,
+    "character": "名",
+    "sound": "명",
+    "meaning": "이름",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 297,
+    "character": "命",
+    "sound": "명",
+    "meaning": "목숨",
+    "base": "口",
+    "total": 8
+  },
+  {
+    "id": 298,
+    "character": "模",
+    "sound": "모",
+    "meaning": "법",
+    "base": "木",
+    "total": 14
+  },
+  {
+    "id": 299,
+    "character": "毛",
+    "sound": "모",
+    "meaning": "털",
+    "base": "毛",
+    "total": 4
+  },
+  {
+    "id": 300,
+    "character": "母",
+    "sound": "모",
+    "meaning": "어미",
+    "base": "毋",
+    "total": 5
+  },
+  {
+    "id": 301,
+    "character": "牧",
+    "sound": "목",
+    "meaning": "칠",
+    "base": "牛",
+    "total": 8
+  },
+  {
+    "id": 302,
+    "character": "目",
+    "sound": "목",
+    "meaning": "눈",
+    "base": "目",
+    "total": 5
+  },
+  {
+    "id": 303,
+    "character": "木",
+    "sound": "목",
+    "meaning": "나무",
+    "base": "木",
+    "total": 4
+  },
+  {
+    "id": 304,
+    "character": "墓",
+    "sound": "묘",
+    "meaning": "무덤",
+    "base": "土",
+    "total": 13
+  },
+  {
+    "id": 305,
+    "character": "妙",
+    "sound": "묘",
+    "meaning": "묘할",
+    "base": "女",
+    "total": 7
+  },
+  {
+    "id": 306,
+    "character": "舞",
+    "sound": "무",
+    "meaning": "춤출",
+    "base": "舛",
+    "total": 14
+  },
+  {
+    "id": 307,
+    "character": "務",
+    "sound": "무",
+    "meaning": "힘쓸",
+    "base": "力",
+    "total": 10
+  },
+  {
+    "id": 308,
+    "character": "武",
+    "sound": "무",
+    "meaning": "호반",
+    "base": "止",
+    "total": 8
+  },
+  {
+    "id": 309,
+    "character": "無",
+    "sound": "무",
+    "meaning": "없을",
+    "base": "火",
+    "total": 12
+  },
+  {
+    "id": 310,
+    "character": "聞",
+    "sound": "문",
+    "meaning": "들을",
+    "base": "耳",
+    "total": 14
+  },
+  {
+    "id": 311,
+    "character": "問",
+    "sound": "문",
+    "meaning": "물을",
+    "base": "口",
+    "total": 11
+  },
+  {
+    "id": 312,
+    "character": "文",
+    "sound": "문",
+    "meaning": "글월",
+    "base": "文",
+    "total": 4
+  },
+  {
+    "id": 313,
+    "character": "門",
+    "sound": "문",
+    "meaning": "문",
+    "base": "門",
+    "total": 8
+  },
+  {
+    "id": 314,
+    "character": "物",
+    "sound": "물",
+    "meaning": "만물",
+    "base": "牛",
+    "total": 8
+  },
+  {
+    "id": 315,
+    "character": "味",
+    "sound": "미",
+    "meaning": "맛",
+    "base": "口",
+    "total": 8
+  },
+  {
+    "id": 316,
+    "character": "未",
+    "sound": "미",
+    "meaning": "아닐",
+    "base": "木",
+    "total": 5
+  },
+  {
+    "id": 317,
+    "character": "米",
+    "sound": "미",
+    "meaning": "쌀",
+    "base": "米",
+    "total": 6
+  },
+  {
+    "id": 318,
+    "character": "美",
+    "sound": "미",
+    "meaning": "아름다울",
+    "base": "羊",
+    "total": 9
+  },
+  {
+    "id": 319,
+    "character": "民",
+    "sound": "민",
+    "meaning": "백성",
+    "base": "氏",
+    "total": 5
+  },
+  {
+    "id": 320,
+    "character": "密",
+    "sound": "밀",
+    "meaning": "빽빽할",
+    "base": "宀",
+    "total": 11
+  },
+  {
+    "id": 321,
+    "character": "拍",
+    "sound": "박",
+    "meaning": "칠",
+    "base": "手",
+    "total": 8
+  },
+  {
+    "id": 322,
+    "character": "博",
+    "sound": "박",
+    "meaning": "넓을",
+    "base": "十",
+    "total": 12
+  },
+  {
+    "id": 323,
+    "character": "朴",
+    "sound": "박",
+    "meaning": "나무 껍질/후박나무",
+    "base": "木",
+    "total": 6
+  },
+  {
+    "id": 324,
+    "character": "半",
+    "sound": "반",
+    "meaning": "반",
+    "base": "十",
+    "total": 5
+  },
+  {
+    "id": 325,
+    "character": "反",
+    "sound": "반",
+    "meaning": "되돌릴",
+    "base": "又",
+    "total": 4
+  },
+  {
+    "id": 326,
+    "character": "班",
+    "sound": "반",
+    "meaning": "나눌",
+    "base": "玉",
+    "total": 10
+  },
+  {
+    "id": 327,
+    "character": "髮",
+    "sound": "발",
+    "meaning": "터럭",
+    "base": "髟",
+    "total": 15
+  },
+  {
+    "id": 328,
+    "character": "發",
+    "sound": "발",
+    "meaning": "필/쏠",
+    "base": "癶",
+    "total": 12
+  },
+  {
+    "id": 329,
+    "character": "妨",
+    "sound": "방",
+    "meaning": "방해할",
+    "base": "女",
+    "total": 7
+  },
+  {
+    "id": 330,
+    "character": "房",
+    "sound": "방",
+    "meaning": "방",
+    "base": "戶",
+    "total": 8
+  },
+  {
+    "id": 331,
+    "character": "訪",
+    "sound": "방",
+    "meaning": "찾을",
+    "base": "言",
+    "total": 11
+  },
+  {
+    "id": 332,
+    "character": "防",
+    "sound": "방",
+    "meaning": "막을",
+    "base": "阜",
+    "total": 6
+  },
+  {
+    "id": 333,
+    "character": "放",
+    "sound": "방",
+    "meaning": "놓을",
+    "base": "攴",
+    "total": 8
+  },
+  {
+    "id": 334,
+    "character": "方",
+    "sound": "방",
+    "meaning": "모",
+    "base": "方",
+    "total": 4
+  },
+  {
+    "id": 335,
+    "character": "拜",
+    "sound": "배",
+    "meaning": "절",
+    "base": "手",
+    "total": 9
+  },
+  {
+    "id": 336,
+    "character": "背",
+    "sound": "배",
+    "meaning": "등",
+    "base": "肉",
+    "total": 9
+  },
+  {
+    "id": 337,
+    "character": "配",
+    "sound": "배",
+    "meaning": "짝",
+    "base": "酉",
+    "total": 10
+  },
+  {
+    "id": 338,
+    "character": "倍",
+    "sound": "배",
+    "meaning": "곱",
+    "base": "人",
+    "total": 10
+  },
+  {
+    "id": 339,
+    "character": "百",
+    "sound": "백",
+    "meaning": "일백",
+    "base": "白",
+    "total": 6
+  },
+  {
+    "id": 340,
+    "character": "白",
+    "sound": "백",
+    "meaning": "흰",
+    "base": "白",
+    "total": 5
+  },
+  {
+    "id": 341,
+    "character": "番",
+    "sound": "번",
+    "meaning": "차례",
+    "base": "田",
+    "total": 12
+  },
+  {
+    "id": 342,
+    "character": "伐",
+    "sound": "벌",
+    "meaning": "칠",
+    "base": "人",
+    "total": 6
+  },
+  {
+    "id": 343,
+    "character": "罰",
+    "sound": "벌",
+    "meaning": "죄",
+    "base": "网",
+    "total": 14
+  },
+  {
+    "id": 344,
+    "character": "犯",
+    "sound": "범",
+    "meaning": "범할",
+    "base": "犬",
+    "total": 5
+  },
+  {
+    "id": 345,
+    "character": "範",
+    "sound": "범",
+    "meaning": "법/규범",
+    "base": "竹",
+    "total": 15
+  },
+  {
+    "id": 346,
+    "character": "法",
+    "sound": "법",
+    "meaning": "법",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 347,
+    "character": "壁",
+    "sound": "벽",
+    "meaning": "벽",
+    "base": "土",
+    "total": 16
+  },
+  {
+    "id": 348,
+    "character": "辯",
+    "sound": "변",
+    "meaning": "말씀",
+    "base": "辛",
+    "total": 21
+  },
+  {
+    "id": 349,
+    "character": "邊",
+    "sound": "변",
+    "meaning": "가",
+    "base": "辵",
+    "total": 18
+  },
+  {
+    "id": 350,
+    "character": "變",
+    "sound": "변",
+    "meaning": "변할",
+    "base": "言",
+    "total": 23
+  },
+  {
+    "id": 351,
+    "character": "別",
+    "sound": "별",
+    "meaning": "나눌",
+    "base": "刀",
+    "total": 7
+  },
+  {
+    "id": 352,
+    "character": "兵",
+    "sound": "병",
+    "meaning": "군사",
+    "base": "八",
+    "total": 7
+  },
+  {
+    "id": 353,
+    "character": "病",
+    "sound": "병",
+    "meaning": "병",
+    "base": "疒",
+    "total": 10
+  },
+  {
+    "id": 354,
+    "character": "普",
+    "sound": "보",
+    "meaning": "넓을",
+    "base": "日",
+    "total": 12
+  },
+  {
+    "id": 355,
+    "character": "保",
+    "sound": "보",
+    "meaning": "지킬",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 356,
+    "character": "報",
+    "sound": "보",
+    "meaning": "갚을",
+    "base": "土",
+    "total": 12
+  },
+  {
+    "id": 357,
+    "character": "寶",
+    "sound": "보",
+    "meaning": "보배",
+    "base": "宀",
+    "total": 20
+  },
+  {
+    "id": 358,
+    "character": "步",
+    "sound": "보",
+    "meaning": "걸음",
+    "base": "止",
+    "total": 7
+  },
+  {
+    "id": 359,
+    "character": "伏",
+    "sound": "복",
+    "meaning": "엎드릴",
+    "base": "人",
+    "total": 6
+  },
+  {
+    "id": 360,
+    "character": "複",
+    "sound": "복",
+    "meaning": "겹옷/겹옷 부",
+    "base": "衣",
+    "total": 14
+  },
+  {
+    "id": 361,
+    "character": "復",
+    "sound": "복",
+    "meaning": "회복할",
+    "base": "彳",
+    "total": 12
+  },
+  {
+    "id": 362,
+    "character": "福",
+    "sound": "복",
+    "meaning": "복",
+    "base": "示",
+    "total": 13
+  },
+  {
+    "id": 363,
+    "character": "服",
+    "sound": "복",
+    "meaning": "옷",
+    "base": "月",
+    "total": 8
+  },
+  {
+    "id": 364,
+    "character": "本",
+    "sound": "본",
+    "meaning": "근본/밑",
+    "base": "木",
+    "total": 5
+  },
+  {
+    "id": 365,
+    "character": "奉",
+    "sound": "봉",
+    "meaning": "받들",
+    "base": "大",
+    "total": 8
+  },
+  {
+    "id": 366,
+    "character": "否",
+    "sound": "부",
+    "meaning": "아닐",
+    "base": "口",
+    "total": 7
+  },
+  {
+    "id": 367,
+    "character": "負",
+    "sound": "부",
+    "meaning": "질",
+    "base": "貝",
+    "total": 9
+  },
+  {
+    "id": 368,
+    "character": "副",
+    "sound": "부",
+    "meaning": "버금",
+    "base": "刀",
+    "total": 11
+  },
+  {
+    "id": 369,
+    "character": "婦",
+    "sound": "부",
+    "meaning": "며느리",
+    "base": "女",
+    "total": 11
+  },
+  {
+    "id": 370,
+    "character": "富",
+    "sound": "부",
+    "meaning": "가멸/부자",
+    "base": "宀",
+    "total": 12
+  },
+  {
+    "id": 371,
+    "character": "府",
+    "sound": "부",
+    "meaning": "마을",
+    "base": "广",
+    "total": 8
+  },
+  {
+    "id": 372,
+    "character": "部",
+    "sound": "부",
+    "meaning": "거느릴",
+    "base": "邑",
+    "total": 10
+  },
+  {
+    "id": 373,
+    "character": "夫",
+    "sound": "부",
+    "meaning": "지아비",
+    "base": "大",
+    "total": 4
+  },
+  {
+    "id": 374,
+    "character": "父",
+    "sound": "부",
+    "meaning": "아비",
+    "base": "父",
+    "total": 4
+  },
+  {
+    "id": 375,
+    "character": "北",
+    "sound": "북",
+    "meaning": "북녘/북쪽",
+    "base": "匕",
+    "total": 5
+  },
+  {
+    "id": 376,
+    "character": "憤",
+    "sound": "분",
+    "meaning": "분할",
+    "base": "心",
+    "total": 15
+  },
+  {
+    "id": 377,
+    "character": "粉",
+    "sound": "분",
+    "meaning": "가루",
+    "base": "米",
+    "total": 10
+  },
+  {
+    "id": 378,
+    "character": "分",
+    "sound": "분",
+    "meaning": "나눌",
+    "base": "刀",
+    "total": 4
+  },
+  {
+    "id": 379,
+    "character": "佛",
+    "sound": "불",
+    "meaning": "부처",
+    "base": "人",
+    "total": 7
+  },
+  {
+    "id": 380,
+    "character": "不",
+    "sound": "부",
+    "meaning": "아닐",
+    "base": "一",
+    "total": 4
+  },
+  {
+    "id": 381,
+    "character": "批",
+    "sound": "비",
+    "meaning": "비평할",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 382,
+    "character": "碑",
+    "sound": "비",
+    "meaning": "비석",
+    "base": "石",
+    "total": 13
+  },
+  {
+    "id": 383,
+    "character": "祕",
+    "sound": "비",
+    "meaning": "숨길",
+    "base": "示",
+    "total": 9
+  },
+  {
+    "id": 384,
+    "character": "備",
+    "sound": "비",
+    "meaning": "갖출",
+    "base": "人",
+    "total": 12
+  },
+  {
+    "id": 385,
+    "character": "悲",
+    "sound": "비",
+    "meaning": "슬플",
+    "base": "心",
+    "total": 12
+  },
+  {
+    "id": 386,
+    "character": "非",
+    "sound": "비",
+    "meaning": "아닐",
+    "base": "非",
+    "total": 8
+  },
+  {
+    "id": 387,
+    "character": "飛",
+    "sound": "비",
+    "meaning": "날",
+    "base": "飛",
+    "total": 9
+  },
+  {
+    "id": 388,
+    "character": "比",
+    "sound": "비",
+    "meaning": "견줄",
+    "base": "比",
+    "total": 4
+  },
+  {
+    "id": 389,
+    "character": "費",
+    "sound": "비",
+    "meaning": "쓸",
+    "base": "貝",
+    "total": 12
+  },
+  {
+    "id": 390,
+    "character": "鼻",
+    "sound": "비",
+    "meaning": "코",
+    "base": "鼻",
+    "total": 14
+  },
+  {
+    "id": 391,
+    "character": "貧",
+    "sound": "빈",
+    "meaning": "가난할",
+    "base": "貝",
+    "total": 11
+  },
+  {
+    "id": 392,
+    "character": "氷",
+    "sound": "빙",
+    "meaning": "얼음",
+    "base": "水",
+    "total": 5
+  },
+  {
+    "id": 393,
+    "character": "射",
+    "sound": "사",
+    "meaning": "쏠",
+    "base": "寸",
+    "total": 10
+  },
+  {
+    "id": 394,
+    "character": "私",
+    "sound": "사",
+    "meaning": "사사",
+    "base": "禾",
+    "total": 7
+  },
+  {
+    "id": 395,
+    "character": "絲",
+    "sound": "사",
+    "meaning": "실",
+    "base": "糸",
+    "total": 12
+  },
+  {
+    "id": 396,
+    "character": "辭",
+    "sound": "사",
+    "meaning": "말씀",
+    "base": "辛",
+    "total": 19
+  },
+  {
+    "id": 397,
+    "character": "寺",
+    "sound": "사",
+    "meaning": "절",
+    "base": "寸",
+    "total": 6
+  },
+  {
+    "id": 398,
+    "character": "師",
+    "sound": "사",
+    "meaning": "스승",
+    "base": "巾",
+    "total": 10
+  },
+  {
+    "id": 399,
+    "character": "舍",
+    "sound": "사",
+    "meaning": "집",
+    "base": "舌",
+    "total": 8
+  },
+  {
+    "id": 400,
+    "character": "謝",
+    "sound": "사",
+    "meaning": "사례할",
+    "base": "言",
+    "total": 17
+  },
+  {
+    "id": 401,
+    "character": "寫",
+    "sound": "사",
+    "meaning": "베낄",
+    "base": "宀",
+    "total": 15
+  },
+  {
+    "id": 402,
+    "character": "思",
+    "sound": "사",
+    "meaning": "생각할",
+    "base": "心",
+    "total": 9
+  },
+  {
+    "id": 403,
+    "character": "査",
+    "sound": "사",
+    "meaning": "조사할",
+    "base": "木",
+    "total": 9
+  },
+  {
+    "id": 404,
+    "character": "仕",
+    "sound": "사",
+    "meaning": "벼슬",
+    "base": "人",
+    "total": 5
+  },
+  {
+    "id": 405,
+    "character": "史",
+    "sound": "사",
+    "meaning": "역사",
+    "base": "口",
+    "total": 5
+  },
+  {
+    "id": 406,
+    "character": "士",
+    "sound": "사",
+    "meaning": "선비",
+    "base": "士",
+    "total": 3
+  },
+  {
+    "id": 407,
+    "character": "使",
+    "sound": "사",
+    "meaning": "하여금",
+    "base": "人",
+    "total": 8
+  },
+  {
+    "id": 408,
+    "character": "死",
+    "sound": "사",
+    "meaning": "죽을",
+    "base": "歹",
+    "total": 6
+  },
+  {
+    "id": 409,
+    "character": "社",
+    "sound": "사",
+    "meaning": "토지신",
+    "base": "示",
+    "total": 7
+  },
+  {
+    "id": 410,
+    "character": "事",
+    "sound": "사",
+    "meaning": "일",
+    "base": "亅",
+    "total": 8
+  },
+  {
+    "id": 411,
+    "character": "四",
+    "sound": "사",
+    "meaning": "넉",
+    "base": "囗",
+    "total": 5
+  },
+  {
+    "id": 412,
+    "character": "散",
+    "sound": "산",
+    "meaning": "흩어질",
+    "base": "攴",
+    "total": 12
+  },
+  {
+    "id": 413,
+    "character": "産",
+    "sound": "산",
+    "meaning": "낳을",
+    "base": "生",
+    "total": 11
+  },
+  {
+    "id": 414,
+    "character": "算",
+    "sound": "산",
+    "meaning": "셀",
+    "base": "竹",
+    "total": 14
+  },
+  {
+    "id": 415,
+    "character": "山",
+    "sound": "산",
+    "meaning": "뫼",
+    "base": "山",
+    "total": 3
+  },
+  {
+    "id": 416,
+    "character": "殺",
+    "sound": "살",
+    "meaning": "죽일",
+    "base": "殳",
+    "total": 10
+  },
+  {
+    "id": 417,
+    "character": "三",
+    "sound": "삼",
+    "meaning": "석",
+    "base": "一",
+    "total": 3
+  },
+  {
+    "id": 418,
+    "character": "傷",
+    "sound": "상",
+    "meaning": "상처",
+    "base": "人",
+    "total": 13
+  },
+  {
+    "id": 419,
+    "character": "象",
+    "sound": "상",
+    "meaning": "코끼리",
+    "base": "豕",
+    "total": 11
+  },
+  {
+    "id": 420,
+    "character": "常",
+    "sound": "상",
+    "meaning": "항상",
+    "base": "巾",
+    "total": 11
+  },
+  {
+    "id": 421,
+    "character": "床",
+    "sound": "상",
+    "meaning": "상",
+    "base": "广",
+    "total": 7
+  },
+  {
+    "id": 422,
+    "character": "想",
+    "sound": "상",
+    "meaning": "생각할",
+    "base": "心",
+    "total": 13
+  },
+  {
+    "id": 423,
+    "character": "狀",
+    "sound": "상",
+    "meaning": "형상/문서 장",
+    "base": "犬",
+    "total": 8
+  },
+  {
+    "id": 424,
+    "character": "賞",
+    "sound": "상",
+    "meaning": "상줄",
+    "base": "貝",
+    "total": 15
+  },
+  {
+    "id": 425,
+    "character": "商",
+    "sound": "상",
+    "meaning": "헤아릴",
+    "base": "口",
+    "total": 11
+  },
+  {
+    "id": 426,
+    "character": "相",
+    "sound": "상",
+    "meaning": "서로",
+    "base": "目",
+    "total": 9
+  },
+  {
+    "id": 427,
+    "character": "上",
+    "sound": "상",
+    "meaning": "위",
+    "base": "一",
+    "total": 3
+  },
+  {
+    "id": 428,
+    "character": "色",
+    "sound": "색",
+    "meaning": "빛",
+    "base": "色",
+    "total": 6
+  },
+  {
+    "id": 429,
+    "character": "生",
+    "sound": "생",
+    "meaning": "날",
+    "base": "生",
+    "total": 5
+  },
+  {
+    "id": 430,
+    "character": "序",
+    "sound": "서",
+    "meaning": "차례",
+    "base": "广",
+    "total": 7
+  },
+  {
+    "id": 431,
+    "character": "書",
+    "sound": "서",
+    "meaning": "글/편지",
+    "base": "曰",
+    "total": 10
+  },
+  {
+    "id": 432,
+    "character": "西",
+    "sound": "서",
+    "meaning": "서녘/서쪽",
+    "base": "襾",
+    "total": 6
+  },
+  {
+    "id": 433,
+    "character": "席",
+    "sound": "석",
+    "meaning": "자리",
+    "base": "巾",
+    "total": 10
+  },
+  {
+    "id": 434,
+    "character": "石",
+    "sound": "석",
+    "meaning": "돌",
+    "base": "石",
+    "total": 5
+  },
+  {
+    "id": 435,
+    "character": "夕",
+    "sound": "석",
+    "meaning": "저녁",
+    "base": "夕",
+    "total": 3
+  },
+  {
+    "id": 436,
+    "character": "宣",
+    "sound": "선",
+    "meaning": "베풀",
+    "base": "宀",
+    "total": 9
+  },
+  {
+    "id": 437,
+    "character": "善",
+    "sound": "선",
+    "meaning": "착할",
+    "base": "口",
+    "total": 12
+  },
+  {
+    "id": 438,
+    "character": "船",
+    "sound": "선",
+    "meaning": "배",
+    "base": "舟",
+    "total": 11
+  },
+  {
+    "id": 439,
+    "character": "選",
+    "sound": "선",
+    "meaning": "가릴",
+    "base": "辵",
+    "total": 15
+  },
+  {
+    "id": 440,
+    "character": "仙",
+    "sound": "선",
+    "meaning": "신선",
+    "base": "人",
+    "total": 5
+  },
+  {
+    "id": 441,
+    "character": "鮮",
+    "sound": "선",
+    "meaning": "고울",
+    "base": "魚",
+    "total": 17
+  },
+  {
+    "id": 442,
+    "character": "線",
+    "sound": "선",
+    "meaning": "줄",
+    "base": "糸",
+    "total": 15
+  },
+  {
+    "id": 443,
+    "character": "先",
+    "sound": "선",
+    "meaning": "먼저",
+    "base": "儿",
+    "total": 6
+  },
+  {
+    "id": 444,
+    "character": "舌",
+    "sound": "설",
+    "meaning": "혀",
+    "base": "舌",
+    "total": 6
+  },
+  {
+    "id": 445,
+    "character": "設",
+    "sound": "설",
+    "meaning": "베풀",
+    "base": "言",
+    "total": 11
+  },
+  {
+    "id": 446,
+    "character": "說",
+    "sound": "설",
+    "meaning": "말씀",
+    "base": "言",
+    "total": 14
+  },
+  {
+    "id": 447,
+    "character": "雪",
+    "sound": "설",
+    "meaning": "눈",
+    "base": "雨",
+    "total": 11
+  },
+  {
+    "id": 448,
+    "character": "城",
+    "sound": "성",
+    "meaning": "재/성",
+    "base": "土",
+    "total": 9
+  },
+  {
+    "id": 449,
+    "character": "星",
+    "sound": "성",
+    "meaning": "별",
+    "base": "日",
+    "total": 9
+  },
+  {
+    "id": 450,
+    "character": "盛",
+    "sound": "성",
+    "meaning": "성할",
+    "base": "皿",
+    "total": 11
+  },
+  {
+    "id": 451,
+    "character": "聖",
+    "sound": "성",
+    "meaning": "성인",
+    "base": "耳",
+    "total": 13
+  },
+  {
+    "id": 452,
+    "character": "聲",
+    "sound": "성",
+    "meaning": "소리",
+    "base": "耳",
+    "total": 17
+  },
+  {
+    "id": 453,
+    "character": "誠",
+    "sound": "성",
+    "meaning": "정성",
+    "base": "言",
+    "total": 13
+  },
+  {
+    "id": 454,
+    "character": "性",
+    "sound": "성",
+    "meaning": "성품",
+    "base": "心",
+    "total": 8
+  },
+  {
+    "id": 455,
+    "character": "成",
+    "sound": "성",
+    "meaning": "이룰",
+    "base": "戈",
+    "total": 6
+  },
+  {
+    "id": 456,
+    "character": "省",
+    "sound": "성",
+    "meaning": "살필",
+    "base": "目",
+    "total": 9
+  },
+  {
+    "id": 457,
+    "character": "姓",
+    "sound": "성",
+    "meaning": "성",
+    "base": "女",
+    "total": 8
+  },
+  {
+    "id": 458,
+    "character": "勢",
+    "sound": "세",
+    "meaning": "형세",
+    "base": "力",
+    "total": 13
+  },
+  {
+    "id": 459,
+    "character": "稅",
+    "sound": "세",
+    "meaning": "세금",
+    "base": "禾",
+    "total": 12
+  },
+  {
+    "id": 460,
+    "character": "細",
+    "sound": "세",
+    "meaning": "가늘",
+    "base": "糸",
+    "total": 11
+  },
+  {
+    "id": 461,
+    "character": "歲",
+    "sound": "세",
+    "meaning": "해",
+    "base": "止",
+    "total": 13
+  },
+  {
+    "id": 462,
+    "character": "洗",
+    "sound": "세",
+    "meaning": "씻을",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 463,
+    "character": "世",
+    "sound": "세",
+    "meaning": "대",
+    "base": "一",
+    "total": 5
+  },
+  {
+    "id": 464,
+    "character": "掃",
+    "sound": "소",
+    "meaning": "쓸",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 465,
+    "character": "笑",
+    "sound": "소",
+    "meaning": "웃을",
+    "base": "竹",
+    "total": 10
+  },
+  {
+    "id": 466,
+    "character": "素",
+    "sound": "소",
+    "meaning": "흴/바탕",
+    "base": "糸",
+    "total": 10
+  },
+  {
+    "id": 467,
+    "character": "消",
+    "sound": "소",
+    "meaning": "사라질",
+    "base": "水",
+    "total": 10
+  },
+  {
+    "id": 468,
+    "character": "少",
+    "sound": "소",
+    "meaning": "적을",
+    "base": "小",
+    "total": 4
+  },
+  {
+    "id": 469,
+    "character": "所",
+    "sound": "소",
+    "meaning": "바",
+    "base": "戶",
+    "total": 8
+  },
+  {
+    "id": 470,
+    "character": "小",
+    "sound": "소",
+    "meaning": "작을",
+    "base": "小",
+    "total": 3
+  },
+  {
+    "id": 471,
+    "character": "屬",
+    "sound": "속",
+    "meaning": "무리 속/이을 촉",
+    "base": "尸",
+    "total": 21
+  },
+  {
+    "id": 472,
+    "character": "俗",
+    "sound": "속",
+    "meaning": "풍속",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 473,
+    "character": "續",
+    "sound": "속",
+    "meaning": "이을",
+    "base": "糸",
+    "total": 21
+  },
+  {
+    "id": 474,
+    "character": "束",
+    "sound": "속",
+    "meaning": "묶을",
+    "base": "木",
+    "total": 7
+  },
+  {
+    "id": 475,
+    "character": "速",
+    "sound": "속",
+    "meaning": "빠를",
+    "base": "辵",
+    "total": 10
+  },
+  {
+    "id": 476,
+    "character": "損",
+    "sound": "손",
+    "meaning": "덜",
+    "base": "手",
+    "total": 13
+  },
+  {
+    "id": 477,
+    "character": "孫",
+    "sound": "손",
+    "meaning": "손자",
+    "base": "子",
+    "total": 10
+  },
+  {
+    "id": 478,
+    "character": "松",
+    "sound": "송",
+    "meaning": "소나무",
+    "base": "木",
+    "total": 8
+  },
+  {
+    "id": 479,
+    "character": "頌",
+    "sound": "송",
+    "meaning": "기릴",
+    "base": "頁",
+    "total": 13
+  },
+  {
+    "id": 480,
+    "character": "送",
+    "sound": "송",
+    "meaning": "보낼",
+    "base": "辵",
+    "total": 9
+  },
+  {
+    "id": 481,
+    "character": "秀",
+    "sound": "수",
+    "meaning": "빼어날",
+    "base": "禾",
+    "total": 7
+  },
+  {
+    "id": 482,
+    "character": "修",
+    "sound": "수",
+    "meaning": "닦을",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 483,
+    "character": "受",
+    "sound": "수",
+    "meaning": "받을",
+    "base": "又",
+    "total": 8
+  },
+  {
+    "id": 484,
+    "character": "守",
+    "sound": "수",
+    "meaning": "지킬",
+    "base": "宀",
+    "total": 6
+  },
+  {
+    "id": 485,
+    "character": "授",
+    "sound": "수",
+    "meaning": "줄",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 486,
+    "character": "收",
+    "sound": "수",
+    "meaning": "거둘",
+    "base": "攴",
+    "total": 6
+  },
+  {
+    "id": 487,
+    "character": "首",
+    "sound": "수",
+    "meaning": "머리",
+    "base": "首",
+    "total": 9
+  },
+  {
+    "id": 488,
+    "character": "樹",
+    "sound": "수",
+    "meaning": "나무",
+    "base": "木",
+    "total": 16
+  },
+  {
+    "id": 489,
+    "character": "手",
+    "sound": "수",
+    "meaning": "손자",
+    "base": "手",
+    "total": 4
+  },
+  {
+    "id": 490,
+    "character": "數",
+    "sound": "수",
+    "meaning": "셀",
+    "base": "攴",
+    "total": 15
+  },
+  {
+    "id": 491,
+    "character": "水",
+    "sound": "수",
+    "meaning": "물",
+    "base": "水",
+    "total": 4
+  },
+  {
+    "id": 492,
+    "character": "叔",
+    "sound": "숙",
+    "meaning": "아재비",
+    "base": "又",
+    "total": 8
+  },
+  {
+    "id": 493,
+    "character": "肅",
+    "sound": "숙",
+    "meaning": "엄숙할",
+    "base": "聿",
+    "total": 13
+  },
+  {
+    "id": 494,
+    "character": "宿",
+    "sound": "숙",
+    "meaning": "잘/묵을",
+    "base": "宀",
+    "total": 11
+  },
+  {
+    "id": 495,
+    "character": "純",
+    "sound": "순",
+    "meaning": "순수할",
+    "base": "糸",
+    "total": 10
+  },
+  {
+    "id": 496,
+    "character": "順",
+    "sound": "순",
+    "meaning": "순할",
+    "base": "頁",
+    "total": 12
+  },
+  {
+    "id": 497,
+    "character": "術",
+    "sound": "술",
+    "meaning": "재주",
+    "base": "行",
+    "total": 11
+  },
+  {
+    "id": 498,
+    "character": "崇",
+    "sound": "숭",
+    "meaning": "높을",
+    "base": "山",
+    "total": 11
+  },
+  {
+    "id": 499,
+    "character": "習",
+    "sound": "습",
+    "meaning": "익습",
+    "base": "羽",
+    "total": 11
+  },
+  {
+    "id": 500,
+    "character": "承",
+    "sound": "승",
+    "meaning": "받들",
+    "base": "手",
+    "total": 8
+  },
+  {
+    "id": 501,
+    "character": "勝",
+    "sound": "승",
+    "meaning": "이길",
+    "base": "力",
+    "total": 12
+  },
+  {
+    "id": 502,
+    "character": "施",
+    "sound": "시",
+    "meaning": "베풀",
+    "base": "方",
+    "total": 9
+  },
+  {
+    "id": 503,
+    "character": "是",
+    "sound": "시",
+    "meaning": "옳을",
+    "base": "日",
+    "total": 9
+  },
+  {
+    "id": 504,
+    "character": "視",
+    "sound": "시",
+    "meaning": "볼",
+    "base": "示",
+    "total": 11
+  },
+  {
+    "id": 505,
+    "character": "試",
+    "sound": "시",
+    "meaning": "시험할",
+    "base": "言",
+    "total": 13
+  },
+  {
+    "id": 506,
+    "character": "詩",
+    "sound": "시",
+    "meaning": "시",
+    "base": "言",
+    "total": 13
+  },
+  {
+    "id": 507,
+    "character": "示",
+    "sound": "시",
+    "meaning": "보일",
+    "base": "示",
+    "total": 5
+  },
+  {
+    "id": 508,
+    "character": "始",
+    "sound": "시",
+    "meaning": "처음",
+    "base": "女",
+    "total": 8
+  },
+  {
+    "id": 509,
+    "character": "市",
+    "sound": "시",
+    "meaning": "저자",
+    "base": "巾",
+    "total": 5
+  },
+  {
+    "id": 510,
+    "character": "時",
+    "sound": "시",
+    "meaning": "때",
+    "base": "日",
+    "total": 10
+  },
+  {
+    "id": 511,
+    "character": "息",
+    "sound": "식",
+    "meaning": "쉴",
+    "base": "心",
+    "total": 10
+  },
+  {
+    "id": 512,
+    "character": "識",
+    "sound": "식",
+    "meaning": "알",
+    "base": "言",
+    "total": 19
+  },
+  {
+    "id": 513,
+    "character": "式",
+    "sound": "식",
+    "meaning": "법",
+    "base": "弋",
+    "total": 6
+  },
+  {
+    "id": 514,
+    "character": "植",
+    "sound": "식",
+    "meaning": "심을",
+    "base": "木",
+    "total": 12
+  },
+  {
+    "id": 515,
+    "character": "食",
+    "sound": "식",
+    "meaning": "밥/먹을 사",
+    "base": "食",
+    "total": 9
+  },
+  {
+    "id": 516,
+    "character": "申",
+    "sound": "신",
+    "meaning": "거듭/아홉째 지지",
+    "base": "田",
+    "total": 5
+  },
+  {
+    "id": 517,
+    "character": "臣",
+    "sound": "신",
+    "meaning": "신하",
+    "base": "臣",
+    "total": 6
+  },
+  {
+    "id": 518,
+    "character": "信",
+    "sound": "신",
+    "meaning": "믿을",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 519,
+    "character": "新",
+    "sound": "신",
+    "meaning": "새",
+    "base": "斤",
+    "total": 13
+  },
+  {
+    "id": 520,
+    "character": "神",
+    "sound": "신",
+    "meaning": "귀신",
+    "base": "示",
+    "total": 9
+  },
+  {
+    "id": 521,
+    "character": "身",
+    "sound": "신",
+    "meaning": "몸",
+    "base": "身",
+    "total": 7
+  },
+  {
+    "id": 522,
+    "character": "實",
+    "sound": "실",
+    "meaning": "열매",
+    "base": "宀",
+    "total": 14
+  },
+  {
+    "id": 523,
+    "character": "失",
+    "sound": "실",
+    "meaning": "잃을",
+    "base": "大",
+    "total": 5
+  },
+  {
+    "id": 524,
+    "character": "室",
+    "sound": "실",
+    "meaning": "집",
+    "base": "宀",
+    "total": 9
+  },
+  {
+    "id": 525,
+    "character": "深",
+    "sound": "심",
+    "meaning": "깊을",
+    "base": "水",
+    "total": 11
+  },
+  {
+    "id": 526,
+    "character": "心",
+    "sound": "심",
+    "meaning": "마음",
+    "base": "心",
+    "total": 4
+  },
+  {
+    "id": 527,
+    "character": "十",
+    "sound": "십",
+    "meaning": "열매",
+    "base": "十",
+    "total": 2
+  },
+  {
+    "id": 528,
+    "character": "氏",
+    "sound": "씨",
+    "meaning": "성씨",
+    "base": "氏",
+    "total": 4
+  },
+  {
+    "id": 529,
+    "character": "兒",
+    "sound": "아",
+    "meaning": "아이",
+    "base": "儿",
+    "total": 8
+  },
+  {
+    "id": 530,
+    "character": "惡",
+    "sound": "악",
+    "meaning": "악할",
+    "base": "心",
+    "total": 12
+  },
+  {
+    "id": 531,
+    "character": "眼",
+    "sound": "안",
+    "meaning": "눈",
+    "base": "目",
+    "total": 11
+  },
+  {
+    "id": 532,
+    "character": "案",
+    "sound": "안",
+    "meaning": "책상",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 533,
+    "character": "安",
+    "sound": "안",
+    "meaning": "편안할",
+    "base": "宀",
+    "total": 6
+  },
+  {
+    "id": 534,
+    "character": "暗",
+    "sound": "암",
+    "meaning": "어두울",
+    "base": "日",
+    "total": 13
+  },
+  {
+    "id": 535,
+    "character": "壓",
+    "sound": "압",
+    "meaning": "누를",
+    "base": "土",
+    "total": 17
+  },
+  {
+    "id": 536,
+    "character": "愛",
+    "sound": "애",
+    "meaning": "사랑",
+    "base": "心",
+    "total": 13
+  },
+  {
+    "id": 537,
+    "character": "額",
+    "sound": "액",
+    "meaning": "이마",
+    "base": "頁",
+    "total": 18
+  },
+  {
+    "id": 538,
+    "character": "液",
+    "sound": "액",
+    "meaning": "진",
+    "base": "水",
+    "total": 11
+  },
+  {
+    "id": 539,
+    "character": "夜",
+    "sound": "야",
+    "meaning": "밤",
+    "base": "夕",
+    "total": 8
+  },
+  {
+    "id": 540,
+    "character": "野",
+    "sound": "야",
+    "meaning": "들",
+    "base": "里",
+    "total": 11
+  },
+  {
+    "id": 541,
+    "character": "約",
+    "sound": "약",
+    "meaning": "묶을",
+    "base": "糸",
+    "total": 9
+  },
+  {
+    "id": 542,
+    "character": "弱",
+    "sound": "약",
+    "meaning": "약할",
+    "base": "弓",
+    "total": 10
+  },
+  {
+    "id": 543,
+    "character": "藥",
+    "sound": "약",
+    "meaning": "약할",
+    "base": "艸",
+    "total": 18
+  },
+  {
+    "id": 544,
+    "character": "樣",
+    "sound": "양",
+    "meaning": "모양",
+    "base": "木",
+    "total": 15
+  },
+  {
+    "id": 545,
+    "character": "羊",
+    "sound": "양",
+    "meaning": "양",
+    "base": "羊",
+    "total": 6
+  },
+  {
+    "id": 546,
+    "character": "養",
+    "sound": "양",
+    "meaning": "기를",
+    "base": "食",
+    "total": 14
+  },
+  {
+    "id": 547,
+    "character": "洋",
+    "sound": "양",
+    "meaning": "큰 바다",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 548,
+    "character": "陽",
+    "sound": "양",
+    "meaning": "볕",
+    "base": "阜",
+    "total": 11
+  },
+  {
+    "id": 549,
+    "character": "漁",
+    "sound": "어",
+    "meaning": "고기 잡을",
+    "base": "水",
+    "total": 14
+  },
+  {
+    "id": 550,
+    "character": "魚",
+    "sound": "어",
+    "meaning": "물고기",
+    "base": "魚",
+    "total": 11
+  },
+  {
+    "id": 551,
+    "character": "語",
+    "sound": "어",
+    "meaning": "말씀",
+    "base": "言",
+    "total": 14
+  },
+  {
+    "id": 552,
+    "character": "億",
+    "sound": "억",
+    "meaning": "억",
+    "base": "人",
+    "total": 15
+  },
+  {
+    "id": 553,
+    "character": "言",
+    "sound": "언",
+    "meaning": "말씀",
+    "base": "言",
+    "total": 7
+  },
+  {
+    "id": 554,
+    "character": "嚴",
+    "sound": "엄",
+    "meaning": "엄할",
+    "base": "口",
+    "total": 19
+  },
+  {
+    "id": 555,
+    "character": "業",
+    "sound": "업",
+    "meaning": "업/일",
+    "base": "木",
+    "total": 13
+  },
+  {
+    "id": 556,
+    "character": "與",
+    "sound": "여",
+    "meaning": "줄",
+    "base": "臼",
+    "total": 13
+  },
+  {
+    "id": 557,
+    "character": "如",
+    "sound": "여",
+    "meaning": "같을",
+    "base": "女",
+    "total": 6
+  },
+  {
+    "id": 558,
+    "character": "餘",
+    "sound": "여",
+    "meaning": "남을",
+    "base": "食",
+    "total": 15
+  },
+  {
+    "id": 559,
+    "character": "域",
+    "sound": "역",
+    "meaning": "지경",
+    "base": "土",
+    "total": 11
+  },
+  {
+    "id": 560,
+    "character": "易",
+    "sound": "역",
+    "meaning": "바꿀/쉬울 이",
+    "base": "日",
+    "total": 8
+  },
+  {
+    "id": 561,
+    "character": "逆",
+    "sound": "역",
+    "meaning": "거스를",
+    "base": "辵",
+    "total": 9
+  },
+  {
+    "id": 562,
+    "character": "延",
+    "sound": "연",
+    "meaning": "끌",
+    "base": "廴",
+    "total": 6
+  },
+  {
+    "id": 563,
+    "character": "燃",
+    "sound": "연",
+    "meaning": "불탈",
+    "base": "火",
+    "total": 16
+  },
+  {
+    "id": 564,
+    "character": "緣",
+    "sound": "연",
+    "meaning": "인연",
+    "base": "糸",
+    "total": 15
+  },
+  {
+    "id": 565,
+    "character": "鉛",
+    "sound": "연",
+    "meaning": "납",
+    "base": "金",
+    "total": 13
+  },
+  {
+    "id": 566,
+    "character": "演",
+    "sound": "연",
+    "meaning": "펼",
+    "base": "水",
+    "total": 14
+  },
+  {
+    "id": 567,
+    "character": "煙",
+    "sound": "연",
+    "meaning": "연기",
+    "base": "火",
+    "total": 13
+  },
+  {
+    "id": 568,
+    "character": "硏",
+    "sound": "연",
+    "meaning": "갈",
+    "base": "石",
+    "total": 11
+  },
+  {
+    "id": 569,
+    "character": "然",
+    "sound": "연",
+    "meaning": "그럴",
+    "base": "火",
+    "total": 12
+  },
+  {
+    "id": 570,
+    "character": "熱",
+    "sound": "열",
+    "meaning": "더울",
+    "base": "火",
+    "total": 15
+  },
+  {
+    "id": 571,
+    "character": "葉",
+    "sound": "엽",
+    "meaning": "잎",
+    "base": "艸",
+    "total": 12
+  },
+  {
+    "id": 572,
+    "character": "映",
+    "sound": "영",
+    "meaning": "비출",
+    "base": "日",
+    "total": 9
+  },
+  {
+    "id": 573,
+    "character": "營",
+    "sound": "영",
+    "meaning": "경영할",
+    "base": "火",
+    "total": 16
+  },
+  {
+    "id": 574,
+    "character": "迎",
+    "sound": "영",
+    "meaning": "맞이할",
+    "base": "辵",
+    "total": 7
+  },
+  {
+    "id": 575,
+    "character": "榮",
+    "sound": "영",
+    "meaning": "꽃",
+    "base": "木",
+    "total": 14
+  },
+  {
+    "id": 576,
+    "character": "永",
+    "sound": "영",
+    "meaning": "길",
+    "base": "水",
+    "total": 5
+  },
+  {
+    "id": 577,
+    "character": "英",
+    "sound": "영",
+    "meaning": "꽃부리",
+    "base": "艸",
+    "total": 8
+  },
+  {
+    "id": 578,
+    "character": "豫",
+    "sound": "예",
+    "meaning": "미리",
+    "base": "豕",
+    "total": 15
+  },
+  {
+    "id": 579,
+    "character": "藝",
+    "sound": "예",
+    "meaning": "재주",
+    "base": "艸",
+    "total": 18
+  },
+  {
+    "id": 580,
+    "character": "誤",
+    "sound": "오",
+    "meaning": "그르칠",
+    "base": "言",
+    "total": 14
+  },
+  {
+    "id": 581,
+    "character": "午",
+    "sound": "오",
+    "meaning": "낮/일곱째 지지",
+    "base": "十",
+    "total": 4
+  },
+  {
+    "id": 582,
+    "character": "五",
+    "sound": "오",
+    "meaning": "다섯",
+    "base": "二",
+    "total": 4
+  },
+  {
+    "id": 583,
+    "character": "玉",
+    "sound": "옥",
+    "meaning": "구슬",
+    "base": "玉",
+    "total": 5
+  },
+  {
+    "id": 584,
+    "character": "屋",
+    "sound": "옥",
+    "meaning": "집",
+    "base": "尸",
+    "total": 9
+  },
+  {
+    "id": 585,
+    "character": "溫",
+    "sound": "온",
+    "meaning": "따뜻할",
+    "base": "水",
+    "total": 13
+  },
+  {
+    "id": 586,
+    "character": "完",
+    "sound": "완",
+    "meaning": "완전할",
+    "base": "宀",
+    "total": 7
+  },
+  {
+    "id": 587,
+    "character": "往",
+    "sound": "왕",
+    "meaning": "갈",
+    "base": "彳",
+    "total": 8
+  },
+  {
+    "id": 588,
+    "character": "王",
+    "sound": "왕",
+    "meaning": "임금",
+    "base": "玉",
+    "total": 4
+  },
+  {
+    "id": 589,
+    "character": "外",
+    "sound": "외",
+    "meaning": "밖",
+    "base": "夕",
+    "total": 5
+  },
+  {
+    "id": 590,
+    "character": "謠",
+    "sound": "요",
+    "meaning": "노래",
+    "base": "言",
+    "total": 17
+  },
+  {
+    "id": 591,
+    "character": "曜",
+    "sound": "요",
+    "meaning": "빛날",
+    "base": "日",
+    "total": 18
+  },
+  {
+    "id": 592,
+    "character": "要",
+    "sound": "요",
+    "meaning": "허리",
+    "base": "襾",
+    "total": 9
+  },
+  {
+    "id": 593,
+    "character": "浴",
+    "sound": "욕",
+    "meaning": "목욕할",
+    "base": "水",
+    "total": 10
+  },
+  {
+    "id": 594,
+    "character": "容",
+    "sound": "용",
+    "meaning": "얼굴",
+    "base": "宀",
+    "total": 10
+  },
+  {
+    "id": 595,
+    "character": "勇",
+    "sound": "용",
+    "meaning": "날랠",
+    "base": "力",
+    "total": 9
+  },
+  {
+    "id": 596,
+    "character": "用",
+    "sound": "용",
+    "meaning": "쓸",
+    "base": "用",
+    "total": 5
+  },
+  {
+    "id": 597,
+    "character": "優",
+    "sound": "우",
+    "meaning": "넉넉할",
+    "base": "人",
+    "total": 17
+  },
+  {
+    "id": 598,
+    "character": "遇",
+    "sound": "우",
+    "meaning": "만날",
+    "base": "辵",
+    "total": 12
+  },
+  {
+    "id": 599,
+    "character": "郵",
+    "sound": "우",
+    "meaning": "우편/역찬",
+    "base": "邑",
+    "total": 10
+  },
+  {
+    "id": 600,
+    "character": "牛",
+    "sound": "우",
+    "meaning": "소",
+    "base": "牛",
+    "total": 4
+  },
+  {
+    "id": 601,
+    "character": "友",
+    "sound": "우",
+    "meaning": "벗",
+    "base": "又",
+    "total": 4
+  },
+  {
+    "id": 602,
+    "character": "雨",
+    "sound": "우",
+    "meaning": "비",
+    "base": "雨",
+    "total": 8
+  },
+  {
+    "id": 603,
+    "character": "右",
+    "sound": "우",
+    "meaning": "오른",
+    "base": "口",
+    "total": 5
+  },
+  {
+    "id": 604,
+    "character": "雲",
+    "sound": "운",
+    "meaning": "구름",
+    "base": "雨",
+    "total": 12
+  },
+  {
+    "id": 605,
+    "character": "運",
+    "sound": "운",
+    "meaning": "옮길",
+    "base": "辵",
+    "total": 12
+  },
+  {
+    "id": 606,
+    "character": "雄",
+    "sound": "웅",
+    "meaning": "수컷",
+    "base": "隹",
+    "total": 12
+  },
+  {
+    "id": 607,
+    "character": "怨",
+    "sound": "원",
+    "meaning": "원망할",
+    "base": "心",
+    "total": 9
+  },
+  {
+    "id": 608,
+    "character": "援",
+    "sound": "원",
+    "meaning": "도울/당길",
+    "base": "手",
+    "total": 12
+  },
+  {
+    "id": 609,
+    "character": "源",
+    "sound": "원",
+    "meaning": "근원",
+    "base": "水",
+    "total": 13
+  },
+  {
+    "id": 610,
+    "character": "員",
+    "sound": "원",
+    "meaning": "인원",
+    "base": "口",
+    "total": 10
+  },
+  {
+    "id": 611,
+    "character": "圓",
+    "sound": "원",
+    "meaning": "둥글",
+    "base": "囗",
+    "total": 13
+  },
+  {
+    "id": 612,
+    "character": "原",
+    "sound": "원",
+    "meaning": "근원",
+    "base": "厂",
+    "total": 10
+  },
+  {
+    "id": 613,
+    "character": "院",
+    "sound": "원",
+    "meaning": "집",
+    "base": "阜",
+    "total": 9
+  },
+  {
+    "id": 614,
+    "character": "願",
+    "sound": "원",
+    "meaning": "원할",
+    "base": "頁",
+    "total": 19
+  },
+  {
+    "id": 615,
+    "character": "元",
+    "sound": "원",
+    "meaning": "으뜸",
+    "base": "儿",
+    "total": 4
+  },
+  {
+    "id": 616,
+    "character": "園",
+    "sound": "원",
+    "meaning": "동산",
+    "base": "囗",
+    "total": 13
+  },
+  {
+    "id": 617,
+    "character": "遠",
+    "sound": "원",
+    "meaning": "멀",
+    "base": "辵",
+    "total": 13
+  },
+  {
+    "id": 618,
+    "character": "月",
+    "sound": "월",
+    "meaning": "달",
+    "base": "月",
+    "total": 4
+  },
+  {
+    "id": 619,
+    "character": "危",
+    "sound": "위",
+    "meaning": "위태할",
+    "base": "卩",
+    "total": 6
+  },
+  {
+    "id": 620,
+    "character": "圍",
+    "sound": "위",
+    "meaning": "에워쌀",
+    "base": "囗",
+    "total": 12
+  },
+  {
+    "id": 621,
+    "character": "委",
+    "sound": "위",
+    "meaning": "맡길",
+    "base": "女",
+    "total": 8
+  },
+  {
+    "id": 622,
+    "character": "威",
+    "sound": "위",
+    "meaning": "위엄",
+    "base": "女",
+    "total": 9
+  },
+  {
+    "id": 623,
+    "character": "慰",
+    "sound": "위",
+    "meaning": "위로할",
+    "base": "心",
+    "total": 15
+  },
+  {
+    "id": 624,
+    "character": "爲",
+    "sound": "위",
+    "meaning": "할",
+    "base": "爪",
+    "total": 12
+  },
+  {
+    "id": 625,
+    "character": "衛",
+    "sound": "위",
+    "meaning": "지킬",
+    "base": "行",
+    "total": 15
+  },
+  {
+    "id": 626,
+    "character": "位",
+    "sound": "위",
+    "meaning": "자리",
+    "base": "人",
+    "total": 7
+  },
+  {
+    "id": 627,
+    "character": "偉",
+    "sound": "위",
+    "meaning": "클",
+    "base": "人",
+    "total": 11
+  },
+  {
+    "id": 628,
+    "character": "乳",
+    "sound": "유",
+    "meaning": "젖",
+    "base": "乙",
+    "total": 8
+  },
+  {
+    "id": 629,
+    "character": "儒",
+    "sound": "유",
+    "meaning": "선비",
+    "base": "人",
+    "total": 16
+  },
+  {
+    "id": 630,
+    "character": "遊",
+    "sound": "유",
+    "meaning": "놀",
+    "base": "辵",
+    "total": 12
+  },
+  {
+    "id": 631,
+    "character": "遺",
+    "sound": "유",
+    "meaning": "남길",
+    "base": "辵",
+    "total": 15
+  },
+  {
+    "id": 632,
+    "character": "油",
+    "sound": "유",
+    "meaning": "기름",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 633,
+    "character": "由",
+    "sound": "유",
+    "meaning": "말미암을",
+    "base": "田",
+    "total": 5
+  },
+  {
+    "id": 634,
+    "character": "有",
+    "sound": "유",
+    "meaning": "있을",
+    "base": "月",
+    "total": 6
+  },
+  {
+    "id": 635,
+    "character": "肉",
+    "sound": "육",
+    "meaning": "고기",
+    "base": "肉",
+    "total": 6
+  },
+  {
+    "id": 636,
+    "character": "育",
+    "sound": "육",
+    "meaning": "기를",
+    "base": "肉",
+    "total": 8
+  },
+  {
+    "id": 637,
+    "character": "隱",
+    "sound": "은",
+    "meaning": "숨길",
+    "base": "阜",
+    "total": 16
+  },
+  {
+    "id": 638,
+    "character": "恩",
+    "sound": "은",
+    "meaning": "은혜",
+    "base": "心",
+    "total": 10
+  },
+  {
+    "id": 639,
+    "character": "銀",
+    "sound": "은",
+    "meaning": "은혜",
+    "base": "金",
+    "total": 14
+  },
+  {
+    "id": 640,
+    "character": "陰",
+    "sound": "음",
+    "meaning": "그늘",
+    "base": "阜",
+    "total": 10
+  },
+  {
+    "id": 641,
+    "character": "音",
+    "sound": "음",
+    "meaning": "소리",
+    "base": "音",
+    "total": 9
+  },
+  {
+    "id": 642,
+    "character": "飮",
+    "sound": "음",
+    "meaning": "마실",
+    "base": "食",
+    "total": 13
+  },
+  {
+    "id": 643,
+    "character": "邑",
+    "sound": "읍",
+    "meaning": "고을",
+    "base": "邑",
+    "total": 7
+  },
+  {
+    "id": 644,
+    "character": "應",
+    "sound": "응",
+    "meaning": "응할",
+    "base": "心",
+    "total": 17
+  },
+  {
+    "id": 645,
+    "character": "依",
+    "sound": "의",
+    "meaning": "의지할",
+    "base": "人",
+    "total": 8
+  },
+  {
+    "id": 646,
+    "character": "儀",
+    "sound": "의",
+    "meaning": "거동",
+    "base": "人",
+    "total": 15
+  },
+  {
+    "id": 647,
+    "character": "疑",
+    "sound": "의",
+    "meaning": "의심할",
+    "base": "疋",
+    "total": 14
+  },
+  {
+    "id": 648,
+    "character": "義",
+    "sound": "의",
+    "meaning": "옳을",
+    "base": "羊",
+    "total": 13
+  },
+  {
+    "id": 649,
+    "character": "議",
+    "sound": "의",
+    "meaning": "의논할",
+    "base": "言",
+    "total": 20
+  },
+  {
+    "id": 650,
+    "character": "意",
+    "sound": "의",
+    "meaning": "뜻",
+    "base": "心",
+    "total": 13
+  },
+  {
+    "id": 651,
+    "character": "衣",
+    "sound": "의",
+    "meaning": "옷",
+    "base": "衣",
+    "total": 6
+  },
+  {
+    "id": 652,
+    "character": "醫",
+    "sound": "의",
+    "meaning": "의원",
+    "base": "酉",
+    "total": 18
+  },
+  {
+    "id": 653,
+    "character": "異",
+    "sound": "이",
+    "meaning": "다를",
+    "base": "田",
+    "total": 11
+  },
+  {
+    "id": 654,
+    "character": "移",
+    "sound": "이",
+    "meaning": "옮길",
+    "base": "禾",
+    "total": 11
+  },
+  {
+    "id": 655,
+    "character": "耳",
+    "sound": "이",
+    "meaning": "귀",
+    "base": "耳",
+    "total": 6
+  },
+  {
+    "id": 656,
+    "character": "以",
+    "sound": "이",
+    "meaning": "써",
+    "base": "人",
+    "total": 4
+  },
+  {
+    "id": 657,
+    "character": "二",
+    "sound": "이",
+    "meaning": "두",
+    "base": "二",
+    "total": 2
+  },
+  {
+    "id": 658,
+    "character": "益",
+    "sound": "익",
+    "meaning": "더할",
+    "base": "皿",
+    "total": 10
+  },
+  {
+    "id": 659,
+    "character": "仁",
+    "sound": "인",
+    "meaning": "어질",
+    "base": "人",
+    "total": 4
+  },
+  {
+    "id": 660,
+    "character": "印",
+    "sound": "인",
+    "meaning": "도장",
+    "base": "卩",
+    "total": 5
+  },
+  {
+    "id": 661,
+    "character": "引",
+    "sound": "인",
+    "meaning": "끌",
+    "base": "弓",
+    "total": 4
+  },
+  {
+    "id": 662,
+    "character": "認",
+    "sound": "인",
+    "meaning": "알",
+    "base": "言",
+    "total": 14
+  },
+  {
+    "id": 663,
+    "character": "因",
+    "sound": "인",
+    "meaning": "인할",
+    "base": "囗",
+    "total": 6
+  },
+  {
+    "id": 664,
+    "character": "人",
+    "sound": "인",
+    "meaning": "사람",
+    "base": "人",
+    "total": 2
+  },
+  {
+    "id": 665,
+    "character": "一",
+    "sound": "일",
+    "meaning": "한",
+    "base": "一",
+    "total": 1
+  },
+  {
+    "id": 666,
+    "character": "日",
+    "sound": "일",
+    "meaning": "날/해",
+    "base": "日",
+    "total": 4
+  },
+  {
+    "id": 667,
+    "character": "任",
+    "sound": "임",
+    "meaning": "맡길",
+    "base": "人",
+    "total": 6
+  },
+  {
+    "id": 668,
+    "character": "入",
+    "sound": "입",
+    "meaning": "들",
+    "base": "入",
+    "total": 2
+  },
+  {
+    "id": 669,
+    "character": "姉",
+    "sound": "자",
+    "meaning": "손윗누이",
+    "base": "女",
+    "total": 7
+  },
+  {
+    "id": 670,
+    "character": "姿",
+    "sound": "자",
+    "meaning": "모양/맵시",
+    "base": "女",
+    "total": 9
+  },
+  {
+    "id": 671,
+    "character": "資",
+    "sound": "자",
+    "meaning": "재물",
+    "base": "貝",
+    "total": 13
+  },
+  {
+    "id": 672,
+    "character": "者",
+    "sound": "자",
+    "meaning": "놈",
+    "base": "老",
+    "total": 8
+  },
+  {
+    "id": 673,
+    "character": "子",
+    "sound": "자",
+    "meaning": "아들",
+    "base": "子",
+    "total": 3
+  },
+  {
+    "id": 674,
+    "character": "字",
+    "sound": "자",
+    "meaning": "글자",
+    "base": "子",
+    "total": 6
+  },
+  {
+    "id": 675,
+    "character": "自",
+    "sound": "자",
+    "meaning": "스스로",
+    "base": "自",
+    "total": 6
+  },
+  {
+    "id": 676,
+    "character": "作",
+    "sound": "작",
+    "meaning": "지을",
+    "base": "人",
+    "total": 7
+  },
+  {
+    "id": 677,
+    "character": "昨",
+    "sound": "작",
+    "meaning": "어제",
+    "base": "日",
+    "total": 9
+  },
+  {
+    "id": 678,
+    "character": "殘",
+    "sound": "잔",
+    "meaning": "잔인할/남을",
+    "base": "歹",
+    "total": 12
+  },
+  {
+    "id": 679,
+    "character": "雜",
+    "sound": "잡",
+    "meaning": "섞일",
+    "base": "隹",
+    "total": 18
+  },
+  {
+    "id": 680,
+    "character": "壯",
+    "sound": "장",
+    "meaning": "장할",
+    "base": "士",
+    "total": 7
+  },
+  {
+    "id": 681,
+    "character": "帳",
+    "sound": "장",
+    "meaning": "장막",
+    "base": "巾",
+    "total": 11
+  },
+  {
+    "id": 682,
+    "character": "張",
+    "sound": "장",
+    "meaning": "베풀",
+    "base": "弓",
+    "total": 11
+  },
+  {
+    "id": 683,
+    "character": "腸",
+    "sound": "장",
+    "meaning": "창자",
+    "base": "肉",
+    "total": 13
+  },
+  {
+    "id": 684,
+    "character": "裝",
+    "sound": "장",
+    "meaning": "꾸밀",
+    "base": "衣",
+    "total": 13
+  },
+  {
+    "id": 685,
+    "character": "獎",
+    "sound": "장",
+    "meaning": "권면할",
+    "base": "犬",
+    "total": 15
+  },
+  {
+    "id": 686,
+    "character": "將",
+    "sound": "장",
+    "meaning": "장차",
+    "base": "寸",
+    "total": 11
+  },
+  {
+    "id": 687,
+    "character": "障",
+    "sound": "장",
+    "meaning": "막을",
+    "base": "阜",
+    "total": 13
+  },
+  {
+    "id": 688,
+    "character": "章",
+    "sound": "장",
+    "meaning": "글",
+    "base": "音",
+    "total": 11
+  },
+  {
+    "id": 689,
+    "character": "場",
+    "sound": "장",
+    "meaning": "마당",
+    "base": "土",
+    "total": 12
+  },
+  {
+    "id": 690,
+    "character": "長",
+    "sound": "장",
+    "meaning": "길",
+    "base": "長",
+    "total": 8
+  },
+  {
+    "id": 691,
+    "character": "再",
+    "sound": "재",
+    "meaning": "다시/두",
+    "base": "冂",
+    "total": 6
+  },
+  {
+    "id": 692,
+    "character": "災",
+    "sound": "재",
+    "meaning": "재앙",
+    "base": "火",
+    "total": 7
+  },
+  {
+    "id": 693,
+    "character": "材",
+    "sound": "재",
+    "meaning": "재목",
+    "base": "木",
+    "total": 7
+  },
+  {
+    "id": 694,
+    "character": "財",
+    "sound": "재",
+    "meaning": "재물",
+    "base": "貝",
+    "total": 10
+  },
+  {
+    "id": 695,
+    "character": "在",
+    "sound": "재",
+    "meaning": "있을",
+    "base": "土",
+    "total": 6
+  },
+  {
+    "id": 696,
+    "character": "才",
+    "sound": "재",
+    "meaning": "재주",
+    "base": "手",
+    "total": 3
+  },
+  {
+    "id": 697,
+    "character": "爭",
+    "sound": "쟁",
+    "meaning": "다툴",
+    "base": "爪",
+    "total": 8
+  },
+  {
+    "id": 698,
+    "character": "底",
+    "sound": "저",
+    "meaning": "밑",
+    "base": "广",
+    "total": 8
+  },
+  {
+    "id": 699,
+    "character": "低",
+    "sound": "저",
+    "meaning": "낮을",
+    "base": "人",
+    "total": 7
+  },
+  {
+    "id": 700,
+    "character": "貯",
+    "sound": "저",
+    "meaning": "쌓을",
+    "base": "貝",
+    "total": 12
+  },
+  {
+    "id": 701,
+    "character": "積",
+    "sound": "적",
+    "meaning": "쌓을",
+    "base": "禾",
+    "total": 16
+  },
+  {
+    "id": 702,
+    "character": "籍",
+    "sound": "적",
+    "meaning": "문서",
+    "base": "竹",
+    "total": 20
+  },
+  {
+    "id": 703,
+    "character": "績",
+    "sound": "적",
+    "meaning": "길쌈할/지을",
+    "base": "糸",
+    "total": 17
+  },
+  {
+    "id": 704,
+    "character": "賊",
+    "sound": "적",
+    "meaning": "도둑",
+    "base": "貝",
+    "total": 13
+  },
+  {
+    "id": 705,
+    "character": "適",
+    "sound": "적",
+    "meaning": "맞을",
+    "base": "辵",
+    "total": 14
+  },
+  {
+    "id": 706,
+    "character": "敵",
+    "sound": "적",
+    "meaning": "대적할",
+    "base": "攴",
+    "total": 15
+  },
+  {
+    "id": 707,
+    "character": "赤",
+    "sound": "적",
+    "meaning": "붉을",
+    "base": "赤",
+    "total": 7
+  },
+  {
+    "id": 708,
+    "character": "的",
+    "sound": "적",
+    "meaning": "과녁",
+    "base": "白",
+    "total": 8
+  },
+  {
+    "id": 709,
+    "character": "專",
+    "sound": "전",
+    "meaning": "오로지",
+    "base": "寸",
+    "total": 11
+  },
+  {
+    "id": 710,
+    "character": "轉",
+    "sound": "전",
+    "meaning": "구를",
+    "base": "車",
+    "total": 18
+  },
+  {
+    "id": 711,
+    "character": "錢",
+    "sound": "전",
+    "meaning": "돈",
+    "base": "金",
+    "total": 16
+  },
+  {
+    "id": 712,
+    "character": "田",
+    "sound": "전",
+    "meaning": "밭",
+    "base": "田",
+    "total": 5
+  },
+  {
+    "id": 713,
+    "character": "傳",
+    "sound": "전",
+    "meaning": "전할",
+    "base": "人",
+    "total": 13
+  },
+  {
+    "id": 714,
+    "character": "典",
+    "sound": "전",
+    "meaning": "법",
+    "base": "八",
+    "total": 8
+  },
+  {
+    "id": 715,
+    "character": "展",
+    "sound": "전",
+    "meaning": "펼",
+    "base": "尸",
+    "total": 10
+  },
+  {
+    "id": 716,
+    "character": "戰",
+    "sound": "전",
+    "meaning": "싸움",
+    "base": "戈",
+    "total": 16
+  },
+  {
+    "id": 717,
+    "character": "全",
+    "sound": "전",
+    "meaning": "온전할",
+    "base": "入",
+    "total": 6
+  },
+  {
+    "id": 718,
+    "character": "前",
+    "sound": "전",
+    "meaning": "앞",
+    "base": "刀",
+    "total": 9
+  },
+  {
+    "id": 719,
+    "character": "電",
+    "sound": "전",
+    "meaning": "번개",
+    "base": "雨",
+    "total": 13
+  },
+  {
+    "id": 720,
+    "character": "折",
+    "sound": "절",
+    "meaning": "꺾을",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 721,
+    "character": "絶",
+    "sound": "절",
+    "meaning": "끊을",
+    "base": "糸",
+    "total": 12
+  },
+  {
+    "id": 722,
+    "character": "切",
+    "sound": "절",
+    "meaning": "끊을",
+    "base": "刀",
+    "total": 4
+  },
+  {
+    "id": 723,
+    "character": "節",
+    "sound": "절",
+    "meaning": "마디",
+    "base": "竹",
+    "total": 13
+  },
+  {
+    "id": 724,
+    "character": "占",
+    "sound": "점",
+    "meaning": "점할/차지할",
+    "base": "卜",
+    "total": 5
+  },
+  {
+    "id": 725,
+    "character": "點",
+    "sound": "점",
+    "meaning": "점",
+    "base": "黑",
+    "total": 17
+  },
+  {
+    "id": 726,
+    "character": "店",
+    "sound": "점",
+    "meaning": "가게",
+    "base": "广",
+    "total": 8
+  },
+  {
+    "id": 727,
+    "character": "接",
+    "sound": "접",
+    "meaning": "이을",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 728,
+    "character": "丁",
+    "sound": "정",
+    "meaning": "넷째 천간",
+    "base": "一",
+    "total": 2
+  },
+  {
+    "id": 729,
+    "character": "整",
+    "sound": "정",
+    "meaning": "가지런할",
+    "base": "攴",
+    "total": 16
+  },
+  {
+    "id": 730,
+    "character": "靜",
+    "sound": "정",
+    "meaning": "고요할",
+    "base": "靑",
+    "total": 16
+  },
+  {
+    "id": 731,
+    "character": "政",
+    "sound": "정",
+    "meaning": "정사",
+    "base": "攴",
+    "total": 9
+  },
+  {
+    "id": 732,
+    "character": "程",
+    "sound": "정",
+    "meaning": "한도/길",
+    "base": "禾",
+    "total": 12
+  },
+  {
+    "id": 733,
+    "character": "精",
+    "sound": "정",
+    "meaning": "깨끗할",
+    "base": "米",
+    "total": 14
+  },
+  {
+    "id": 734,
+    "character": "停",
+    "sound": "정",
+    "meaning": "머무를",
+    "base": "人",
+    "total": 11
+  },
+  {
+    "id": 735,
+    "character": "情",
+    "sound": "정",
+    "meaning": "뜻",
+    "base": "心",
+    "total": 11
+  },
+  {
+    "id": 736,
+    "character": "定",
+    "sound": "정",
+    "meaning": "정할",
+    "base": "宀",
+    "total": 8
+  },
+  {
+    "id": 737,
+    "character": "庭",
+    "sound": "정",
+    "meaning": "뜰",
+    "base": "广",
+    "total": 9
+  },
+  {
+    "id": 738,
+    "character": "正",
+    "sound": "정",
+    "meaning": "바를",
+    "base": "止",
+    "total": 5
+  },
+  {
+    "id": 739,
+    "character": "帝",
+    "sound": "제",
+    "meaning": "임금",
+    "base": "巾",
+    "total": 9
+  },
+  {
+    "id": 740,
+    "character": "制",
+    "sound": "제",
+    "meaning": "마를",
+    "base": "刀",
+    "total": 8
+  },
+  {
+    "id": 741,
+    "character": "提",
+    "sound": "제",
+    "meaning": "끌",
+    "base": "手",
+    "total": 12
+  },
+  {
+    "id": 742,
+    "character": "濟",
+    "sound": "제",
+    "meaning": "건널",
+    "base": "水",
+    "total": 17
+  },
+  {
+    "id": 743,
+    "character": "祭",
+    "sound": "제",
+    "meaning": "제사",
+    "base": "示",
+    "total": 11
+  },
+  {
+    "id": 744,
+    "character": "製",
+    "sound": "제",
+    "meaning": "지을",
+    "base": "衣",
+    "total": 14
+  },
+  {
+    "id": 745,
+    "character": "除",
+    "sound": "제",
+    "meaning": "덜/감면할",
+    "base": "阜",
+    "total": 9
+  },
+  {
+    "id": 746,
+    "character": "際",
+    "sound": "제",
+    "meaning": "이음새/사이",
+    "base": "阜",
+    "total": 13
+  },
+  {
+    "id": 747,
+    "character": "第",
+    "sound": "제",
+    "meaning": "차례",
+    "base": "竹",
+    "total": 11
+  },
+  {
+    "id": 748,
+    "character": "題",
+    "sound": "제",
+    "meaning": "제목",
+    "base": "頁",
+    "total": 18
+  },
+  {
+    "id": 749,
+    "character": "弟",
+    "sound": "제",
+    "meaning": "아우",
+    "base": "弓",
+    "total": 7
+  },
+  {
+    "id": 750,
+    "character": "條",
+    "sound": "조",
+    "meaning": "가지",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 751,
+    "character": "潮",
+    "sound": "조",
+    "meaning": "밀물/조수",
+    "base": "水",
+    "total": 15
+  },
+  {
+    "id": 752,
+    "character": "組",
+    "sound": "조",
+    "meaning": "짤",
+    "base": "糸",
+    "total": 11
+  },
+  {
+    "id": 753,
+    "character": "助",
+    "sound": "조",
+    "meaning": "도울",
+    "base": "力",
+    "total": 7
+  },
+  {
+    "id": 754,
+    "character": "早",
+    "sound": "조",
+    "meaning": "이를",
+    "base": "日",
+    "total": 6
+  },
+  {
+    "id": 755,
+    "character": "造",
+    "sound": "조",
+    "meaning": "지을",
+    "base": "辵",
+    "total": 10
+  },
+  {
+    "id": 756,
+    "character": "鳥",
+    "sound": "조",
+    "meaning": "새",
+    "base": "鳥",
+    "total": 11
+  },
+  {
+    "id": 757,
+    "character": "操",
+    "sound": "조",
+    "meaning": "잡을",
+    "base": "手",
+    "total": 16
+  },
+  {
+    "id": 758,
+    "character": "調",
+    "sound": "조",
+    "meaning": "고를",
+    "base": "言",
+    "total": 15
+  },
+  {
+    "id": 759,
+    "character": "朝",
+    "sound": "조",
+    "meaning": "아침",
+    "base": "月",
+    "total": 12
+  },
+  {
+    "id": 760,
+    "character": "祖",
+    "sound": "조",
+    "meaning": "조상",
+    "base": "示",
+    "total": 9
+  },
+  {
+    "id": 761,
+    "character": "族",
+    "sound": "족",
+    "meaning": "겨레",
+    "base": "方",
+    "total": 11
+  },
+  {
+    "id": 762,
+    "character": "足",
+    "sound": "족",
+    "meaning": "발",
+    "base": "足",
+    "total": 7
+  },
+  {
+    "id": 763,
+    "character": "存",
+    "sound": "존",
+    "meaning": "있을",
+    "base": "子",
+    "total": 6
+  },
+  {
+    "id": 764,
+    "character": "尊",
+    "sound": "존",
+    "meaning": "높을",
+    "base": "寸",
+    "total": 12
+  },
+  {
+    "id": 765,
+    "character": "卒",
+    "sound": "졸",
+    "meaning": "마칠/군사",
+    "base": "十",
+    "total": 8
+  },
+  {
+    "id": 766,
+    "character": "從",
+    "sound": "종",
+    "meaning": "좇을",
+    "base": "彳",
+    "total": 11
+  },
+  {
+    "id": 767,
+    "character": "鍾",
+    "sound": "종",
+    "meaning": "종",
+    "base": "金",
+    "total": 17
+  },
+  {
+    "id": 768,
+    "character": "宗",
+    "sound": "종",
+    "meaning": "마루",
+    "base": "宀",
+    "total": 8
+  },
+  {
+    "id": 769,
+    "character": "終",
+    "sound": "종",
+    "meaning": "끝",
+    "base": "糸",
+    "total": 11
+  },
+  {
+    "id": 770,
+    "character": "種",
+    "sound": "종",
+    "meaning": "씨",
+    "base": "禾",
+    "total": 14
+  },
+  {
+    "id": 771,
+    "character": "座",
+    "sound": "좌",
+    "meaning": "자리",
+    "base": "广",
+    "total": 10
+  },
+  {
+    "id": 772,
+    "character": "左",
+    "sound": "좌",
+    "meaning": "왼",
+    "base": "工",
+    "total": 5
+  },
+  {
+    "id": 773,
+    "character": "罪",
+    "sound": "죄",
+    "meaning": "허물",
+    "base": "网",
+    "total": 13
+  },
+  {
+    "id": 774,
+    "character": "周",
+    "sound": "주",
+    "meaning": "두루",
+    "base": "口",
+    "total": 8
+  },
+  {
+    "id": 775,
+    "character": "朱",
+    "sound": "주",
+    "meaning": "붉을",
+    "base": "木",
+    "total": 6
+  },
+  {
+    "id": 776,
+    "character": "酒",
+    "sound": "주",
+    "meaning": "술",
+    "base": "酉",
+    "total": 10
+  },
+  {
+    "id": 777,
+    "character": "走",
+    "sound": "주",
+    "meaning": "달릴",
+    "base": "走",
+    "total": 7
+  },
+  {
+    "id": 778,
+    "character": "州",
+    "sound": "주",
+    "meaning": "고을",
+    "base": "巛",
+    "total": 6
+  },
+  {
+    "id": 779,
+    "character": "週",
+    "sound": "주",
+    "meaning": "돌",
+    "base": "辵",
+    "total": 11
+  },
+  {
+    "id": 780,
+    "character": "晝",
+    "sound": "주",
+    "meaning": "낮",
+    "base": "日",
+    "total": 11
+  },
+  {
+    "id": 781,
+    "character": "注",
+    "sound": "주",
+    "meaning": "물댈",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 782,
+    "character": "主",
+    "sound": "주",
+    "meaning": "주인",
+    "base": "丶",
+    "total": 5
+  },
+  {
+    "id": 783,
+    "character": "住",
+    "sound": "주",
+    "meaning": "살",
+    "base": "人",
+    "total": 7
+  },
+  {
+    "id": 784,
+    "character": "竹",
+    "sound": "죽",
+    "meaning": "대/대나무",
+    "base": "竹",
+    "total": 6
+  },
+  {
+    "id": 785,
+    "character": "準",
+    "sound": "준",
+    "meaning": "준할",
+    "base": "水",
+    "total": 13
+  },
+  {
+    "id": 786,
+    "character": "衆",
+    "sound": "중",
+    "meaning": "무리",
+    "base": "血",
+    "total": 12
+  },
+  {
+    "id": 787,
+    "character": "重",
+    "sound": "중",
+    "meaning": "무거울",
+    "base": "里",
+    "total": 9
+  },
+  {
+    "id": 788,
+    "character": "中",
+    "sound": "중",
+    "meaning": "가운데",
+    "base": "丨",
+    "total": 4
+  },
+  {
+    "id": 789,
+    "character": "證",
+    "sound": "증",
+    "meaning": "증거",
+    "base": "言",
+    "total": 19
+  },
+  {
+    "id": 790,
+    "character": "增",
+    "sound": "증",
+    "meaning": "더할",
+    "base": "土",
+    "total": 15
+  },
+  {
+    "id": 791,
+    "character": "持",
+    "sound": "지",
+    "meaning": "가질",
+    "base": "手",
+    "total": 9
+  },
+  {
+    "id": 792,
+    "character": "智",
+    "sound": "지",
+    "meaning": "지혜",
+    "base": "日",
+    "total": 12
+  },
+  {
+    "id": 793,
+    "character": "誌",
+    "sound": "지",
+    "meaning": "기록할",
+    "base": "言",
+    "total": 14
+  },
+  {
+    "id": 794,
+    "character": "志",
+    "sound": "지",
+    "meaning": "뜻",
+    "base": "心",
+    "total": 7
+  },
+  {
+    "id": 795,
+    "character": "指",
+    "sound": "지",
+    "meaning": "가리킬",
+    "base": "手",
+    "total": 9
+  },
+  {
+    "id": 796,
+    "character": "支",
+    "sound": "지",
+    "meaning": "지탱할",
+    "base": "支",
+    "total": 4
+  },
+  {
+    "id": 797,
+    "character": "至",
+    "sound": "지",
+    "meaning": "이를",
+    "base": "至",
+    "total": 6
+  },
+  {
+    "id": 798,
+    "character": "止",
+    "sound": "지",
+    "meaning": "그칠",
+    "base": "止",
+    "total": 4
+  },
+  {
+    "id": 799,
+    "character": "知",
+    "sound": "지",
+    "meaning": "알",
+    "base": "矢",
+    "total": 8
+  },
+  {
+    "id": 800,
+    "character": "地",
+    "sound": "지",
+    "meaning": "땅",
+    "base": "土",
+    "total": 6
+  },
+  {
+    "id": 801,
+    "character": "紙",
+    "sound": "지",
+    "meaning": "종이",
+    "base": "糸",
+    "total": 10
+  },
+  {
+    "id": 802,
+    "character": "織",
+    "sound": "직",
+    "meaning": "짤",
+    "base": "糸",
+    "total": 18
+  },
+  {
+    "id": 803,
+    "character": "職",
+    "sound": "직",
+    "meaning": "직분",
+    "base": "耳",
+    "total": 18
+  },
+  {
+    "id": 804,
+    "character": "直",
+    "sound": "직",
+    "meaning": "곧을",
+    "base": "目",
+    "total": 8
+  },
+  {
+    "id": 805,
+    "character": "珍",
+    "sound": "진",
+    "meaning": "보배",
+    "base": "玉",
+    "total": 9
+  },
+  {
+    "id": 806,
+    "character": "盡",
+    "sound": "진",
+    "meaning": "다할",
+    "base": "皿",
+    "total": 14
+  },
+  {
+    "id": 807,
+    "character": "陣",
+    "sound": "진",
+    "meaning": "진 칠",
+    "base": "阜",
+    "total": 9
+  },
+  {
+    "id": 808,
+    "character": "眞",
+    "sound": "진",
+    "meaning": "참",
+    "base": "目",
+    "total": 10
+  },
+  {
+    "id": 809,
+    "character": "進",
+    "sound": "진",
+    "meaning": "나아갈",
+    "base": "辵",
+    "total": 11
+  },
+  {
+    "id": 810,
+    "character": "質",
+    "sound": "질",
+    "meaning": "바탕",
+    "base": "貝",
+    "total": 15
+  },
+  {
+    "id": 811,
+    "character": "集",
+    "sound": "집",
+    "meaning": "모일",
+    "base": "隹",
+    "total": 12
+  },
+  {
+    "id": 812,
+    "character": "差",
+    "sound": "차",
+    "meaning": "다를",
+    "base": "工",
+    "total": 9
+  },
+  {
+    "id": 813,
+    "character": "次",
+    "sound": "차",
+    "meaning": "버금",
+    "base": "欠",
+    "total": 6
+  },
+  {
+    "id": 814,
+    "character": "着",
+    "sound": "착",
+    "meaning": "붙을",
+    "base": "目",
+    "total": 11
+  },
+  {
+    "id": 815,
+    "character": "讚",
+    "sound": "찬",
+    "meaning": "기릴",
+    "base": "言",
+    "total": 26
+  },
+  {
+    "id": 816,
+    "character": "察",
+    "sound": "찰",
+    "meaning": "살필",
+    "base": "宀",
+    "total": 14
+  },
+  {
+    "id": 817,
+    "character": "參",
+    "sound": "참",
+    "meaning": "참여할/석 삼",
+    "base": "厶",
+    "total": 11
+  },
+  {
+    "id": 818,
+    "character": "創",
+    "sound": "창",
+    "meaning": "비롯할",
+    "base": "刀",
+    "total": 12
+  },
+  {
+    "id": 819,
+    "character": "唱",
+    "sound": "창",
+    "meaning": "노래",
+    "base": "口",
+    "total": 11
+  },
+  {
+    "id": 820,
+    "character": "窓",
+    "sound": "창",
+    "meaning": "창",
+    "base": "穴",
+    "total": 11
+  },
+  {
+    "id": 821,
+    "character": "採",
+    "sound": "채",
+    "meaning": "캘",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 822,
+    "character": "冊",
+    "sound": "책",
+    "meaning": "책",
+    "base": "冂",
+    "total": 5
+  },
+  {
+    "id": 823,
+    "character": "責",
+    "sound": "책",
+    "meaning": "꾸짖을",
+    "base": "貝",
+    "total": 11
+  },
+  {
+    "id": 824,
+    "character": "處",
+    "sound": "처",
+    "meaning": "곳",
+    "base": "虍",
+    "total": 11
+  },
+  {
+    "id": 825,
+    "character": "泉",
+    "sound": "천",
+    "meaning": "샘",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 826,
+    "character": "千",
+    "sound": "천",
+    "meaning": "일천",
+    "base": "十",
+    "total": 3
+  },
+  {
+    "id": 827,
+    "character": "天",
+    "sound": "천",
+    "meaning": "하늘",
+    "base": "大",
+    "total": 4
+  },
+  {
+    "id": 828,
+    "character": "川",
+    "sound": "천",
+    "meaning": "내",
+    "base": "巛",
+    "total": 3
+  },
+  {
+    "id": 829,
+    "character": "鐵",
+    "sound": "철",
+    "meaning": "쇠",
+    "base": "金",
+    "total": 21
+  },
+  {
+    "id": 830,
+    "character": "廳",
+    "sound": "청",
+    "meaning": "관청",
+    "base": "广",
+    "total": 25
+  },
+  {
+    "id": 831,
+    "character": "聽",
+    "sound": "청",
+    "meaning": "들을",
+    "base": "耳",
+    "total": 22
+  },
+  {
+    "id": 832,
+    "character": "請",
+    "sound": "청",
+    "meaning": "청할",
+    "base": "言",
+    "total": 15
+  },
+  {
+    "id": 833,
+    "character": "淸",
+    "sound": "청",
+    "meaning": "맑을",
+    "base": "水",
+    "total": 11
+  },
+  {
+    "id": 834,
+    "character": "靑",
+    "sound": "청",
+    "meaning": "푸를",
+    "base": "靑",
+    "total": 8
+  },
+  {
+    "id": 835,
+    "character": "體",
+    "sound": "체",
+    "meaning": "몸",
+    "base": "骨",
+    "total": 22
+  },
+  {
+    "id": 836,
+    "character": "招",
+    "sound": "초",
+    "meaning": "부를",
+    "base": "手",
+    "total": 8
+  },
+  {
+    "id": 837,
+    "character": "初",
+    "sound": "초",
+    "meaning": "처음",
+    "base": "刀",
+    "total": 7
+  },
+  {
+    "id": 838,
+    "character": "草",
+    "sound": "초",
+    "meaning": "풀",
+    "base": "艸",
+    "total": 9
+  },
+  {
+    "id": 839,
+    "character": "村",
+    "sound": "촌",
+    "meaning": "마을",
+    "base": "木",
+    "total": 7
+  },
+  {
+    "id": 840,
+    "character": "寸",
+    "sound": "촌",
+    "meaning": "마디",
+    "base": "寸",
+    "total": 3
+  },
+  {
+    "id": 841,
+    "character": "總",
+    "sound": "총",
+    "meaning": "합할/거느릴",
+    "base": "糸",
+    "total": 17
+  },
+  {
+    "id": 842,
+    "character": "銃",
+    "sound": "총",
+    "meaning": "총",
+    "base": "金",
+    "total": 14
+  },
+  {
+    "id": 843,
+    "character": "最",
+    "sound": "최",
+    "meaning": "가장",
+    "base": "冂",
+    "total": 12
+  },
+  {
+    "id": 844,
+    "character": "推",
+    "sound": "추",
+    "meaning": "밀/밀 퇴",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 845,
+    "character": "秋",
+    "sound": "추",
+    "meaning": "가을",
+    "base": "禾",
+    "total": 9
+  },
+  {
+    "id": 846,
+    "character": "縮",
+    "sound": "축",
+    "meaning": "줄일",
+    "base": "糸",
+    "total": 17
+  },
+  {
+    "id": 847,
+    "character": "築",
+    "sound": "축",
+    "meaning": "쌓을",
+    "base": "竹",
+    "total": 16
+  },
+  {
+    "id": 848,
+    "character": "蓄",
+    "sound": "축",
+    "meaning": "모을",
+    "base": "艸",
+    "total": 13
+  },
+  {
+    "id": 849,
+    "character": "祝",
+    "sound": "축",
+    "meaning": "빌",
+    "base": "示",
+    "total": 9
+  },
+  {
+    "id": 850,
+    "character": "春",
+    "sound": "춘",
+    "meaning": "봄",
+    "base": "日",
+    "total": 9
+  },
+  {
+    "id": 851,
+    "character": "出",
+    "sound": "출",
+    "meaning": "날",
+    "base": "凵",
+    "total": 5
+  },
+  {
+    "id": 852,
+    "character": "忠",
+    "sound": "충",
+    "meaning": "충성",
+    "base": "心",
+    "total": 8
+  },
+  {
+    "id": 853,
+    "character": "蟲",
+    "sound": "충",
+    "meaning": "벌레",
+    "base": "虫",
+    "total": 18
+  },
+  {
+    "id": 854,
+    "character": "充",
+    "sound": "충",
+    "meaning": "찰",
+    "base": "儿",
+    "total": 6
+  },
+  {
+    "id": 855,
+    "character": "就",
+    "sound": "취",
+    "meaning": "나아갈",
+    "base": "尢",
+    "total": 12
+  },
+  {
+    "id": 856,
+    "character": "趣",
+    "sound": "취",
+    "meaning": "뜻/재촉할 촉",
+    "base": "走",
+    "total": 15
+  },
+  {
+    "id": 857,
+    "character": "取",
+    "sound": "취",
+    "meaning": "가질",
+    "base": "又",
+    "total": 8
+  },
+  {
+    "id": 858,
+    "character": "測",
+    "sound": "측",
+    "meaning": "잴",
+    "base": "水",
+    "total": 12
+  },
+  {
+    "id": 859,
+    "character": "層",
+    "sound": "층",
+    "meaning": "층",
+    "base": "尸",
+    "total": 15
+  },
+  {
+    "id": 860,
+    "character": "治",
+    "sound": "치",
+    "meaning": "다스릴",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 861,
+    "character": "置",
+    "sound": "치",
+    "meaning": "둘",
+    "base": "网",
+    "total": 13
+  },
+  {
+    "id": 862,
+    "character": "齒",
+    "sound": "치",
+    "meaning": "이",
+    "base": "齒",
+    "total": 15
+  },
+  {
+    "id": 863,
+    "character": "致",
+    "sound": "치",
+    "meaning": "이를",
+    "base": "至",
+    "total": 10
+  },
+  {
+    "id": 864,
+    "character": "則",
+    "sound": "칙/즉",
+    "meaning": "법칙, 곧",
+    "base": "刀",
+    "total": 9
+  },
+  {
+    "id": 865,
+    "character": "親",
+    "sound": "친",
+    "meaning": "친할",
+    "base": "見",
+    "total": 16
+  },
+  {
+    "id": 866,
+    "character": "七",
+    "sound": "칠",
+    "meaning": "일곱",
+    "base": "一",
+    "total": 2
+  },
+  {
+    "id": 867,
+    "character": "寢",
+    "sound": "침",
+    "meaning": "잘",
+    "base": "宀",
+    "total": 14
+  },
+  {
+    "id": 868,
+    "character": "針",
+    "sound": "침",
+    "meaning": "바늘",
+    "base": "金",
+    "total": 10
+  },
+  {
+    "id": 869,
+    "character": "侵",
+    "sound": "침",
+    "meaning": "침노할",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 870,
+    "character": "稱",
+    "sound": "칭",
+    "meaning": "일컬을",
+    "base": "禾",
+    "total": 14
+  },
+  {
+    "id": 871,
+    "character": "快",
+    "sound": "쾌",
+    "meaning": "쾌할",
+    "base": "心",
+    "total": 7
+  },
+  {
+    "id": 872,
+    "character": "他",
+    "sound": "타",
+    "meaning": "남/다를",
+    "base": "人",
+    "total": 5
+  },
+  {
+    "id": 873,
+    "character": "打",
+    "sound": "타",
+    "meaning": "칠",
+    "base": "手",
+    "total": 5
+  },
+  {
+    "id": 874,
+    "character": "卓",
+    "sound": "탁",
+    "meaning": "높을",
+    "base": "十",
+    "total": 8
+  },
+  {
+    "id": 875,
+    "character": "彈",
+    "sound": "탄",
+    "meaning": "탄알",
+    "base": "弓",
+    "total": 15
+  },
+  {
+    "id": 876,
+    "character": "歎",
+    "sound": "탄",
+    "meaning": "탄식할",
+    "base": "欠",
+    "total": 15
+  },
+  {
+    "id": 877,
+    "character": "炭",
+    "sound": "탄",
+    "meaning": "숯",
+    "base": "火",
+    "total": 9
+  },
+  {
+    "id": 878,
+    "character": "脫",
+    "sound": "탈",
+    "meaning": "벗을",
+    "base": "肉",
+    "total": 11
+  },
+  {
+    "id": 879,
+    "character": "探",
+    "sound": "탐",
+    "meaning": "찾을",
+    "base": "手",
+    "total": 11
+  },
+  {
+    "id": 880,
+    "character": "態",
+    "sound": "태",
+    "meaning": "모양",
+    "base": "心",
+    "total": 14
+  },
+  {
+    "id": 881,
+    "character": "太",
+    "sound": "태",
+    "meaning": "클",
+    "base": "大",
+    "total": 4
+  },
+  {
+    "id": 882,
+    "character": "擇",
+    "sound": "택",
+    "meaning": "가릴",
+    "base": "手",
+    "total": 16
+  },
+  {
+    "id": 883,
+    "character": "宅",
+    "sound": "택",
+    "meaning": "집",
+    "base": "宀",
+    "total": 6
+  },
+  {
+    "id": 884,
+    "character": "討",
+    "sound": "토",
+    "meaning": "칠",
+    "base": "言",
+    "total": 10
+  },
+  {
+    "id": 885,
+    "character": "土",
+    "sound": "토",
+    "meaning": "흙",
+    "base": "土",
+    "total": 3
+  },
+  {
+    "id": 886,
+    "character": "痛",
+    "sound": "통",
+    "meaning": "아플",
+    "base": "疒",
+    "total": 12
+  },
+  {
+    "id": 887,
+    "character": "統",
+    "sound": "통",
+    "meaning": "거느릴",
+    "base": "糸",
+    "total": 12
+  },
+  {
+    "id": 888,
+    "character": "通",
+    "sound": "통",
+    "meaning": "통",
+    "base": "辵",
+    "total": 10
+  },
+  {
+    "id": 889,
+    "character": "退",
+    "sound": "퇴",
+    "meaning": "물러날",
+    "base": "辵",
+    "total": 9
+  },
+  {
+    "id": 890,
+    "character": "投",
+    "sound": "투",
+    "meaning": "던질",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 891,
+    "character": "鬪",
+    "sound": "투",
+    "meaning": "싸울",
+    "base": "鬥",
+    "total": 20
+  },
+  {
+    "id": 892,
+    "character": "特",
+    "sound": "특",
+    "meaning": "특별할",
+    "base": "牛",
+    "total": 10
+  },
+  {
+    "id": 893,
+    "character": "派",
+    "sound": "파",
+    "meaning": "갈래/물갈래",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 894,
+    "character": "波",
+    "sound": "파",
+    "meaning": "물결",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 895,
+    "character": "破",
+    "sound": "파",
+    "meaning": "깨뜨릴",
+    "base": "石",
+    "total": 10
+  },
+  {
+    "id": 896,
+    "character": "判",
+    "sound": "판",
+    "meaning": "판단할",
+    "base": "刀",
+    "total": 7
+  },
+  {
+    "id": 897,
+    "character": "板",
+    "sound": "판",
+    "meaning": "널빤지",
+    "base": "木",
+    "total": 8
+  },
+  {
+    "id": 898,
+    "character": "八",
+    "sound": "팔",
+    "meaning": "여덟",
+    "base": "八",
+    "total": 2
+  },
+  {
+    "id": 899,
+    "character": "敗",
+    "sound": "패",
+    "meaning": "패할",
+    "base": "攴",
+    "total": 11
+  },
+  {
+    "id": 900,
+    "character": "篇",
+    "sound": "편",
+    "meaning": "책",
+    "base": "竹",
+    "total": 15
+  },
+  {
+    "id": 901,
+    "character": "便",
+    "sound": "편",
+    "meaning": "편할",
+    "base": "人",
+    "total": 9
+  },
+  {
+    "id": 902,
+    "character": "評",
+    "sound": "평",
+    "meaning": "평할",
+    "base": "言",
+    "total": 12
+  },
+  {
+    "id": 903,
+    "character": "平",
+    "sound": "평",
+    "meaning": "평평할",
+    "base": "干",
+    "total": 5
+  },
+  {
+    "id": 904,
+    "character": "閉",
+    "sound": "폐",
+    "meaning": "닫을",
+    "base": "門",
+    "total": 11
+  },
+  {
+    "id": 905,
+    "character": "胞",
+    "sound": "포",
+    "meaning": "세포",
+    "base": "肉",
+    "total": 9
+  },
+  {
+    "id": 906,
+    "character": "包",
+    "sound": "포",
+    "meaning": "쌀",
+    "base": "勹",
+    "total": 5
+  },
+  {
+    "id": 907,
+    "character": "布",
+    "sound": "포",
+    "meaning": "베",
+    "base": "巾",
+    "total": 5
+  },
+  {
+    "id": 908,
+    "character": "砲",
+    "sound": "포",
+    "meaning": "대포",
+    "base": "石",
+    "total": 10
+  },
+  {
+    "id": 909,
+    "character": "爆",
+    "sound": "폭",
+    "meaning": "터질",
+    "base": "火",
+    "total": 19
+  },
+  {
+    "id": 910,
+    "character": "暴",
+    "sound": "폭",
+    "meaning": "사나울",
+    "base": "日",
+    "total": 15
+  },
+  {
+    "id": 911,
+    "character": "標",
+    "sound": "표",
+    "meaning": "우듬지",
+    "base": "木",
+    "total": 15
+  },
+  {
+    "id": 912,
+    "character": "票",
+    "sound": "표",
+    "meaning": "표",
+    "base": "示",
+    "total": 11
+  },
+  {
+    "id": 913,
+    "character": "表",
+    "sound": "표",
+    "meaning": "겉",
+    "base": "衣",
+    "total": 8
+  },
+  {
+    "id": 914,
+    "character": "品",
+    "sound": "품",
+    "meaning": "물건",
+    "base": "口",
+    "total": 9
+  },
+  {
+    "id": 915,
+    "character": "豊",
+    "sound": "풍",
+    "meaning": "풍성할",
+    "base": "豆",
+    "total": 13
+  },
+  {
+    "id": 916,
+    "character": "風",
+    "sound": "풍",
+    "meaning": "바람",
+    "base": "風",
+    "total": 9
+  },
+  {
+    "id": 917,
+    "character": "疲",
+    "sound": "피",
+    "meaning": "지칠",
+    "base": "疒",
+    "total": 10
+  },
+  {
+    "id": 918,
+    "character": "避",
+    "sound": "피",
+    "meaning": "피할",
+    "base": "辵",
+    "total": 16
+  },
+  {
+    "id": 919,
+    "character": "必",
+    "sound": "필",
+    "meaning": "반드시",
+    "base": "心",
+    "total": 5
+  },
+  {
+    "id": 920,
+    "character": "筆",
+    "sound": "필",
+    "meaning": "붓",
+    "base": "竹",
+    "total": 12
+  },
+  {
+    "id": 921,
+    "character": "河",
+    "sound": "하",
+    "meaning": "강",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 922,
+    "character": "下",
+    "sound": "하",
+    "meaning": "아래",
+    "base": "一",
+    "total": 3
+  },
+  {
+    "id": 923,
+    "character": "夏",
+    "sound": "하",
+    "meaning": "여름",
+    "base": "夊",
+    "total": 10
+  },
+  {
+    "id": 924,
+    "character": "學",
+    "sound": "학",
+    "meaning": "배울",
+    "base": "子",
+    "total": 16
+  },
+  {
+    "id": 925,
+    "character": "恨",
+    "sound": "한",
+    "meaning": "한할",
+    "base": "心",
+    "total": 9
+  },
+  {
+    "id": 926,
+    "character": "閑",
+    "sound": "한",
+    "meaning": "한가할",
+    "base": "門",
+    "total": 12
+  },
+  {
+    "id": 927,
+    "character": "限",
+    "sound": "한",
+    "meaning": "한계",
+    "base": "阜",
+    "total": 8
+  },
+  {
+    "id": 928,
+    "character": "寒",
+    "sound": "한",
+    "meaning": "찰",
+    "base": "宀",
+    "total": 12
+  },
+  {
+    "id": 929,
+    "character": "漢",
+    "sound": "한",
+    "meaning": "한수",
+    "base": "水",
+    "total": 14
+  },
+  {
+    "id": 930,
+    "character": "韓",
+    "sound": "한",
+    "meaning": "나라이름",
+    "base": "韋",
+    "total": 17
+  },
+  {
+    "id": 931,
+    "character": "合",
+    "sound": "합",
+    "meaning": "합할",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 932,
+    "character": "抗",
+    "sound": "항",
+    "meaning": "막을",
+    "base": "手",
+    "total": 7
+  },
+  {
+    "id": 933,
+    "character": "港",
+    "sound": "항",
+    "meaning": "항구",
+    "base": "水",
+    "total": 12
+  },
+  {
+    "id": 934,
+    "character": "航",
+    "sound": "항",
+    "meaning": "배",
+    "base": "舟",
+    "total": 10
+  },
+  {
+    "id": 935,
+    "character": "解",
+    "sound": "해",
+    "meaning": "풀",
+    "base": "角",
+    "total": 13
+  },
+  {
+    "id": 936,
+    "character": "害",
+    "sound": "해",
+    "meaning": "해칠",
+    "base": "宀",
+    "total": 10
+  },
+  {
+    "id": 937,
+    "character": "海",
+    "sound": "해",
+    "meaning": "바다",
+    "base": "水",
+    "total": 10
+  },
+  {
+    "id": 938,
+    "character": "核",
+    "sound": "핵",
+    "meaning": "씨",
+    "base": "木",
+    "total": 10
+  },
+  {
+    "id": 939,
+    "character": "幸",
+    "sound": "행",
+    "meaning": "다행",
+    "base": "干",
+    "total": 8
+  },
+  {
+    "id": 940,
+    "character": "行",
+    "sound": "행",
+    "meaning": "다닐",
+    "base": "行",
+    "total": 6
+  },
+  {
+    "id": 941,
+    "character": "鄕",
+    "sound": "향",
+    "meaning": "시골",
+    "base": "邑",
+    "total": 12
+  },
+  {
+    "id": 942,
+    "character": "香",
+    "sound": "향",
+    "meaning": "향기",
+    "base": "香",
+    "total": 9
+  },
+  {
+    "id": 943,
+    "character": "向",
+    "sound": "향",
+    "meaning": "향할",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 944,
+    "character": "虛",
+    "sound": "허",
+    "meaning": "빌",
+    "base": "虍",
+    "total": 12
+  },
+  {
+    "id": 945,
+    "character": "許",
+    "sound": "허",
+    "meaning": "허락할",
+    "base": "言",
+    "total": 11
+  },
+  {
+    "id": 946,
+    "character": "憲",
+    "sound": "헌",
+    "meaning": "법",
+    "base": "心",
+    "total": 16
+  },
+  {
+    "id": 947,
+    "character": "險",
+    "sound": "험",
+    "meaning": "험할",
+    "base": "阜",
+    "total": 15
+  },
+  {
+    "id": 948,
+    "character": "驗",
+    "sound": "험",
+    "meaning": "시험/증험",
+    "base": "馬",
+    "total": 23
+  },
+  {
+    "id": 949,
+    "character": "革",
+    "sound": "혁",
+    "meaning": "가죽",
+    "base": "革",
+    "total": 9
+  },
+  {
+    "id": 950,
+    "character": "顯",
+    "sound": "현",
+    "meaning": "나타날",
+    "base": "頁",
+    "total": 23
+  },
+  {
+    "id": 951,
+    "character": "賢",
+    "sound": "현",
+    "meaning": "어질",
+    "base": "貝",
+    "total": 15
+  },
+  {
+    "id": 952,
+    "character": "現",
+    "sound": "현",
+    "meaning": "나타날",
+    "base": "玉",
+    "total": 11
+  },
+  {
+    "id": 953,
+    "character": "血",
+    "sound": "혈",
+    "meaning": "피할",
+    "base": "血",
+    "total": 6
+  },
+  {
+    "id": 954,
+    "character": "協",
+    "sound": "협",
+    "meaning": "화합할/도울",
+    "base": "十",
+    "total": 8
+  },
+  {
+    "id": 955,
+    "character": "刑",
+    "sound": "형",
+    "meaning": "형벌",
+    "base": "刀",
+    "total": 6
+  },
+  {
+    "id": 956,
+    "character": "形",
+    "sound": "형",
+    "meaning": "모양",
+    "base": "彡",
+    "total": 7
+  },
+  {
+    "id": 957,
+    "character": "兄",
+    "sound": "형",
+    "meaning": "맏/형",
+    "base": "儿",
+    "total": 5
+  },
+  {
+    "id": 958,
+    "character": "惠",
+    "sound": "혜",
+    "meaning": "은혜",
+    "base": "心",
+    "total": 12
+  },
+  {
+    "id": 959,
+    "character": "呼",
+    "sound": "호",
+    "meaning": "부를",
+    "base": "口",
+    "total": 8
+  },
+  {
+    "id": 960,
+    "character": "好",
+    "sound": "호",
+    "meaning": "좋을",
+    "base": "女",
+    "total": 6
+  },
+  {
+    "id": 961,
+    "character": "戶",
+    "sound": "호",
+    "meaning": "지게/집",
+    "base": "戶",
+    "total": 4
+  },
+  {
+    "id": 962,
+    "character": "護",
+    "sound": "호",
+    "meaning": "도울/보호할",
+    "base": "言",
+    "total": 20
+  },
+  {
+    "id": 963,
+    "character": "湖",
+    "sound": "호",
+    "meaning": "호수",
+    "base": "水",
+    "total": 12
+  },
+  {
+    "id": 964,
+    "character": "號",
+    "sound": "호",
+    "meaning": "이름/부를",
+    "base": "虍",
+    "total": 13
+  },
+  {
+    "id": 965,
+    "character": "或",
+    "sound": "혹",
+    "meaning": "혹",
+    "base": "戈",
+    "total": 8
+  },
+  {
+    "id": 966,
+    "character": "婚",
+    "sound": "혼",
+    "meaning": "혼인할",
+    "base": "女",
+    "total": 11
+  },
+  {
+    "id": 967,
+    "character": "混",
+    "sound": "혼",
+    "meaning": "섞을",
+    "base": "水",
+    "total": 11
+  },
+  {
+    "id": 968,
+    "character": "紅",
+    "sound": "홍",
+    "meaning": "붉을",
+    "base": "糸",
+    "total": 9
+  },
+  {
+    "id": 969,
+    "character": "華",
+    "sound": "화",
+    "meaning": "빛날",
+    "base": "艸",
+    "total": 10
+  },
+  {
+    "id": 970,
+    "character": "貨",
+    "sound": "화",
+    "meaning": "재물",
+    "base": "貝",
+    "total": 11
+  },
+  {
+    "id": 971,
+    "character": "化",
+    "sound": "화",
+    "meaning": "될",
+    "base": "匕",
+    "total": 4
+  },
+  {
+    "id": 972,
+    "character": "和",
+    "sound": "화",
+    "meaning": "화할",
+    "base": "口",
+    "total": 8
+  },
+  {
+    "id": 973,
+    "character": "畫",
+    "sound": "화",
+    "meaning": "그림",
+    "base": "田",
+    "total": 12
+  },
+  {
+    "id": 974,
+    "character": "花",
+    "sound": "화",
+    "meaning": "꽃",
+    "base": "艸",
+    "total": 7
+  },
+  {
+    "id": 975,
+    "character": "話",
+    "sound": "화",
+    "meaning": "말씀",
+    "base": "言",
+    "total": 13
+  },
+  {
+    "id": 976,
+    "character": "火",
+    "sound": "화",
+    "meaning": "불",
+    "base": "火",
+    "total": 4
+  },
+  {
+    "id": 977,
+    "character": "確",
+    "sound": "확",
+    "meaning": "굳을",
+    "base": "石",
+    "total": 15
+  },
+  {
+    "id": 978,
+    "character": "歡",
+    "sound": "환",
+    "meaning": "기쁠",
+    "base": "欠",
+    "total": 21
+  },
+  {
+    "id": 979,
+    "character": "環",
+    "sound": "환",
+    "meaning": "고리",
+    "base": "玉",
+    "total": 17
+  },
+  {
+    "id": 980,
+    "character": "患",
+    "sound": "환",
+    "meaning": "근심",
+    "base": "心",
+    "total": 11
+  },
+  {
+    "id": 981,
+    "character": "活",
+    "sound": "활",
+    "meaning": "살",
+    "base": "水",
+    "total": 9
+  },
+  {
+    "id": 982,
+    "character": "況",
+    "sound": "황",
+    "meaning": "상황/하물며",
+    "base": "水",
+    "total": 8
+  },
+  {
+    "id": 983,
+    "character": "黃",
+    "sound": "황",
+    "meaning": "누를",
+    "base": "黃",
+    "total": 12
+  },
+  {
+    "id": 984,
+    "character": "灰",
+    "sound": "회",
+    "meaning": "재물",
+    "base": "火",
+    "total": 6
+  },
+  {
+    "id": 985,
+    "character": "回",
+    "sound": "회",
+    "meaning": "돌",
+    "base": "囗",
+    "total": 6
+  },
+  {
+    "id": 986,
+    "character": "會",
+    "sound": "회",
+    "meaning": "모일",
+    "base": "曰",
+    "total": 13
+  },
+  {
+    "id": 987,
+    "character": "效",
+    "sound": "효",
+    "meaning": "본받을",
+    "base": "攴",
+    "total": 10
+  },
+  {
+    "id": 988,
+    "character": "孝",
+    "sound": "효",
+    "meaning": "효도",
+    "base": "子",
+    "total": 7
+  },
+  {
+    "id": 989,
+    "character": "候",
+    "sound": "후",
+    "meaning": "기후",
+    "base": "人",
+    "total": 10
+  },
+  {
+    "id": 990,
+    "character": "厚",
+    "sound": "후",
+    "meaning": "두터울",
+    "base": "厂",
+    "total": 9
+  },
+  {
+    "id": 991,
+    "character": "後",
+    "sound": "후",
+    "meaning": "뒤",
+    "base": "彳",
+    "total": 9
+  },
+  {
+    "id": 992,
+    "character": "訓",
+    "sound": "훈",
+    "meaning": "가르칠",
+    "base": "言",
+    "total": 10
+  },
+  {
+    "id": 993,
+    "character": "揮",
+    "sound": "휘",
+    "meaning": "휘두를",
+    "base": "手",
+    "total": 12
+  },
+  {
+    "id": 994,
+    "character": "休",
+    "sound": "휴",
+    "meaning": "쉴",
+    "base": "人",
+    "total": 6
+  },
+  {
+    "id": 995,
+    "character": "凶",
+    "sound": "흉",
+    "meaning": "가슴",
+    "base": "凵",
+    "total": 4
+  },
+  {
+    "id": 996,
+    "character": "黑",
+    "sound": "흑",
+    "meaning": "검을",
+    "base": "黑",
+    "total": 12
+  },
+  {
+    "id": 997,
+    "character": "吸",
+    "sound": "흡",
+    "meaning": "마실",
+    "base": "口",
+    "total": 6
+  },
+  {
+    "id": 998,
+    "character": "興",
+    "sound": "흥",
+    "meaning": "일",
+    "base": "臼",
+    "total": 16
+  },
+  {
+    "id": 999,
+    "character": "喜",
+    "sound": "희",
+    "meaning": "기쁠",
+    "base": "口",
+    "total": 12
+  },
+  {
+    "id": 1000,
+    "character": "希",
+    "sound": "희",
+    "meaning": "바랄",
+    "base": "巾",
+    "total": 7
+  }
+]
