@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+/* 모바일 기본 폰트 크기 보정 */
+@media (max-width: 480px) {
+  html {
+    font-size: 18px;
+  }
+}
+
